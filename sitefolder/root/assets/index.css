@@ -1,0 +1,612 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin: 0% auto;
+    min-height: 100%;
+    width: 100%;
+    background-image:url("img/background.jpg");
+    background-size: 1920px 100%;
+    background-attachment: fixed;
+    max-width: none;
+    background-position: 0% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+
+#logo {
+    float: left;
+    width: auto;
+    max-width: 22.65625%;
+    height: auto;
+    margin-left: 7.330729%;
+    margin-top: 12.875px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    z-index: 7;
+}
+
+#topnav {
+    float: left;
+    width: 100%;
+    max-width: 100%;
+    height: 75px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-right: 0%;
+}
+
+#leftnav {
+    float: left;
+    width: 13.02%;
+    max-width: 100%;
+    height: 100%;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: fixed;
+    z-index: 0;
+}
+
+#home {
+    float: left;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 6.999171%;
+    position: fixed;
+    top: 20%;
+    left: 3%;
+    z-index: 5;
+    right: auto;
+}
+
+#profile {
+    float: left;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 7.99313%;
+    position: fixed;
+    top: 35%;
+    left: 3%;
+    bottom: auto;
+    right: auto;
+    z-index: 5;
+}
+
+#message {
+    float: left;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 9.999803%;
+    position: fixed;
+    top: 50%;
+    left: 1.5%;
+    bottom: auto;
+    right: auto;
+    z-index: 5;
+}
+
+#manage {
+    float: left;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 9.999803%;
+    position: fixed;
+    top: 65%;
+    left: 1.5%;
+    bottom: auto;
+    right: auto;
+}
+
+#pro {
+    float: left;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 6.999171%;
+    margin-right: 0px;
+    position: fixed;
+    top: 85%;
+    left: 3%;
+    z-index: 4;
+    bottom: auto;
+    right: auto;
+}
+
+#mail {
+    float: left;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 100px;
+    position: fixed;
+    top: 1.8%;
+    left: 80.795957%;
+    bottom: auto;
+}
+
+#unread {
+    float: left;
+    height: 80px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 30.000395%;
+    position: fixed;
+    top: 8.6%;
+    left: 68.27%;
+    z-index: 4;
+    bottom: auto;
+    right: auto;
+}
+
+@media only screen and (max-width: 2560px) {
+    .primaryContainer {
+        background-image:url("img/background.jpg");
+        background-attachment: fixed;
+        background-size: 2560px 100%;
+        background-position: 0% 0%;
+        background-repeat: no-repeat no-repeat;
+    }
+
+    #topnav {
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: none;
+        position: fixed;
+        margin-right: 0px;
+        top: 0px;
+        left: 0px;
+        height: 150px;
+        width: 100%;
+    }
+
+    #logo {
+        position: fixed;
+        margin-left: 0px;
+        margin-top: 0px;
+        top: 0px;
+        left: 0%;
+        height: 150px;
+        max-width: none;
+    }
+
+    #leftnav {
+        width: 13.01907%;
+        height: 100%;
+    }
+}
+
+@media only screen and (max-width: 1920px) {
+    #topnav {
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: both;
+        position: fixed;
+        margin-right: 0px;
+        top: 0px;
+        left: 0px;
+        height: 150px;
+    }
+
+    .primaryContainer {
+        background-image:url("img/background.jpg");
+        background-attachment: fixed;
+        background-size: 1920px 100%;
+        background-position: 0% 0%;
+        background-repeat: no-repeat no-repeat;
+    }
+
+    #leftnav {
+        top: 8px;
+        left: 0%;
+        width: 13.019206%;
+        height: 100%;
+    }
+
+    #logo {
+        position: fixed;
+        margin-left: 0px;
+        margin-top: 0px;
+        top: 0px;
+        left: 0%;
+        height: 150px;
+    }
+}
+
+@media only screen and (max-width: 1680px) {
+    #topnav {
+        height: 150px;
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: none;
+        margin-right: 0px;
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+    }
+
+    .primaryContainer {
+        background-image:url("img/background.jpg");
+        background-attachment: fixed;
+        background-size: 1920px 100%;
+        background-position: 0% 0%;
+        background-repeat: no-repeat no-repeat;
+    }
+
+    #logo {
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: none;
+        height: 150px;
+        position: fixed;
+        top: 0px;
+        left: 0%;
+    }
+
+    #leftnav {
+        top: 150px;
+        left: 0%;
+        width: 13.018201%;
+        height: auto;
+    }
+
+    #home {
+        float: left;
+        height: auto;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 6.999171%;
+        position: fixed;
+        top: 20%;
+        left: 3%;
+        z-index: 5;
+        right: auto;
+    }
+
+    #profile {
+        float: left;
+        height: auto;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 7.99313%;
+        position: fixed;
+        top: 35%;
+        left: 3%;
+        bottom: auto;
+        right: auto;
+        z-index: 5;
+    }
+
+    #message {
+        float: left;
+        height: auto;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 9.999803%;
+        position: fixed;
+        top: 50%;
+        left: 1.5%;
+        bottom: auto;
+        right: auto;
+        z-index: 5;
+    }
+
+    #manage {
+        float: left;
+        height: auto;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 9.999803%;
+        position: fixed;
+        top: 65%;
+        left: 1.5%;
+        bottom: auto;
+        right: auto;
+    }
+
+    #pro {
+        float: left;
+        height: auto;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 6.999171%;
+        margin-right: 0px;
+        position: fixed;
+        top: 85%;
+        left: 3%;
+        z-index: 4;
+        bottom: auto;
+        right: auto;
+    }
+
+    #mail {
+        float: left;
+        height: auto;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 100px;
+        position: fixed;
+        top: 1.8%;
+        left: 80.795957%;
+        bottom: auto;
+    }
+
+    #unread {
+        float: left;
+        height: 80px;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 30.000395%;
+        position: fixed;
+        top: 8.6%;
+        left: 68.27%;
+        z-index: 4;
+        bottom: auto;
+        right: auto;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    #topnav {
+        position: fixed;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+        top: 0px;
+        left: 0px;
+        height: 150px;
+        z-index: 1;
+    }
+
+    .primaryContainer {
+        background-image:url("img/background.jpg");
+        background-attachment: fixed;
+        background-size: 1920px 100%;
+        background-position: 0% 0%;
+        background-repeat: no-repeat no-repeat;
+    }
+
+    #leftnav {
+        width: 13.019748%;
+        height: 100%;
+    }
+
+    #logo {
+        position: fixed;
+        margin-left: 0px;
+        margin-top: 0px;
+        top: 0px;
+        left: 0%;
+        height: 150px;
+    }
+}
+
+@media only screen and (max-width: 1280px) {
+    #topnav {
+        height: 150px;
+        position: fixed;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+    }
+
+    .primaryContainer {
+        background-image:url("img/background.jpg");
+        background-attachment: fixed;
+        background-size: 1920px 100%;
+        background-position: 0% 0%;
+        background-repeat: no-repeat no-repeat;
+    }
+
+    #leftnav {
+        width: 13.017578%;
+        height: 100%;
+    }
+
+    #logo {
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: none;
+        position: fixed;
+        height: 150px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    #topnav {
+        height: 150px;
+        position: fixed;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+        z-index: 2;
+        width: 100%;
+    }
+
+    #logo {
+        position: fixed;
+        margin-left: 0px;
+        margin-top: 0px;
+        top: 0px;
+        left: 0%;
+        height: 150px;
+        width: auto;
+        max-width: none;
+    }
+
+    #leftnav {
+        z-index: 1;
+        top: 0px;
+        left: 0%;
+        width: 13.018799%;
+        height: 100%;
+    }
+
+    .primaryContainer {
+        background-image:url("img/background.jpg");
+        background-attachment: fixed;
+        background-size: 1920px 100%;
+        background-position: 0% 0%;
+        background-repeat: no-repeat no-repeat;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+    .primaryContainer {
+        background-image:url("img/background.jpg");
+        background-attachment: fixed;
+        background-size: 1920px 100%;
+        background-position: 0% 0%;
+        background-repeat: no-repeat no-repeat;
+    }
+
+    #logo {
+        position: fixed;
+        margin-left: 0px;
+        margin-top: 0px;
+        top: 0px;
+        left: 0%;
+        width: auto;
+        max-width: none;
+        height: 125px;
+    }
+
+    #topnav {
+        max-width: none;
+        height: 125px;
+        position: fixed;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+        z-index: 2;
+        width: 100%;
+    }
+
+    #leftnav {
+        z-index: 1;
+        width: 13.018663%;
+        height: 100%;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    #topnav {
+        height: 100px;
+        position: fixed;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+        top: 0px;
+        left: 0px;
+        z-index: 2;
+        width: 100%;
+    }
+
+    #logo {
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: none;
+        position: fixed;
+        top: 0px;
+        left: 0%;
+        width: auto;
+        height: 100px;
+    }
+
+    #leftnav {
+        z-index: 1;
+        width: 13.017578%;
+        height: 100%;
+    }
+
+    .primaryContainer {
+        background-image:url("img/background.jpg");
+        background-attachment: fixed;
+        background-size: 1920px 100%;
+        background-position: 0% 0%;
+        background-repeat: no-repeat no-repeat;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    #logo {
+        float: left;
+        width: auto;
+        max-width: none;
+        height: 75px;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: both;
+        color: rgb(0, 0, 0);
+        position: fixed;
+        top: 0px;
+        left: 0%;
+    }
+
+    .primaryContainer {
+        margin-left: 0%;
+        margin-right: 0px;
+        float: left;
+        position: relative;
+        background-image:url("img/background.jpg");
+        background-attachment: fixed;
+        background-size: 1920px 100%;
+        background-position: 0% 0%;
+        background-repeat: no-repeat no-repeat;
+    }
+
+    #topnav {
+        float: left;
+        max-width: 100%;
+        height: 75px;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        margin-right: 0px;
+        width: 100%;
+    }
+
+    #leftnav {
+        float: left;
+        max-width: 100%;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        position: fixed;
+        z-index: 1;
+        width: 13.017578%;
+        height: 100%;
+    }
+}
+
