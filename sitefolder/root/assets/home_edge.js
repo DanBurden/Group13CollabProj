@@ -1,2 +1,127 @@
+/**
+ * Adobe Edge: symbol definitions
+ */
+(function($, Edge, compId){
+//images folder
+var im='images/';
 
-(function($,Edge,compId){var _=null,y=true,n=false,rz='rotateZ',x5='rgba(255,255,255,0.00)',c='color',x14='rgba(0,0,0,0)',g='image',x9='home',e8='${_home2}',a='Base State',x7='hidden',m='rect',dt='Default Timeline',x2='2.0.0',x3='2.0.1.268',p='px',lf='left',kx='skewX',e17='${symbolSelector}',e16='${_home}',x12='48px',bg='background-color',t='transform',x13='auto',r='deg',x10='0px',x1='2.0.1',w='width',tp='top',h='height',ql='linear',ov='overflow',e6='${_Stage}',x11='100px',x4='stage',s='style';var im='images/';var g15='home.png';var fonts={};var P=Edge.P,T=Edge.T,A=Edge.A;var resources=[];var symbols={"stage":{v:x1,mv:x2,b:x3,bS:a,iS:a,gpu:n,rI:n,cn:{dom:[{id:'home2',t:m,r:['220','138','auto','auto','auto','auto']}],sI:[{id:'home2',sN:'home'}]},s:{},tl:{"Default Timeline":{fS:a,tS:"",d:4000,a:y,tt:[]}}},"home":{v:x1,mv:x2,b:x3,bS:a,iS:a,gpu:n,rI:n,cn:{dom:[{id:x9,t:g,r:[x10,x10,x11,x12,x13,x13],f:[x14,im+g15,x10,x10]}],sI:[]},s:{},tl:{"Default Timeline":{fS:a,tS:"",d:0,a:y,tt:[]}}}};var S1=symbols[x4];var tl0=S1.tl[dt].tt,st1=S1.s[a]={},A1=A(_,tl0,st1);A1.A(e6).P(bg,x5,c).P(w,110).P(h,50).P(ov,x7);A1.A(e8).P(tp,0).T(0,0).P(rz,0,t,_,r).T(0,10,1,ql).T(1,0,1).T(2,-10,1).T(3,0,1).P(lf,5,_,_,p).T(0,5).P(kx,0,t,_,r).T(0,-15,1).T(1,0,1).T(2,15,1).T(3,0,1);var S2=symbols[x9];var tl1=S2.tl[dt].tt,st2=S2.s[a]={},A2=A(_,tl1,st2);A2.A(e16).P(tp,0).P(h,48).P(lf,0).P(w,100);A2.A(e17).P(h,48).P(w,100);Edge.registerCompositionDefn(compId,symbols,fonts,resources);$(window).ready(function(){Edge.launchComposition(compId);});})(jQuery,AdobeEdge,"EDGE-4515200");
+var fonts = {};
+
+
+var resources = [
+];
+var symbols = {
+"stage": {
+   version: "2.0.1",
+   minimumCompatibleVersion: "2.0.0",
+   build: "2.0.1.268",
+   baseState: "Base State",
+   initialState: "Base State",
+   gpuAccelerate: false,
+   resizeInstances: false,
+   content: {
+         dom: [
+         {
+            id:'home2',
+            type:'rect',
+            rect:['220','138','auto','auto','auto','auto']
+         }],
+         symbolInstances: [
+         {
+            id:'home2',
+            symbolName:'home'
+         }
+         ]
+      },
+   states: {
+      "Base State": {
+         "${_Stage}": [
+            ["color", "background-color", 'rgba(255,255,255,0.00)'],
+            ["style", "overflow", 'hidden'],
+            ["style", "height", '50px'],
+            ["style", "width", '110px']
+         ],
+         "${_home2}": [
+            ["style", "top", '0px'],
+            ["transform", "skewX", '0deg'],
+            ["style", "left", '5px'],
+            ["transform", "rotateZ", '0deg']
+         ]
+      }
+   },
+   timelines: {
+      "Default Timeline": {
+         fromState: "Base State",
+         toState: "",
+         duration: 4000,
+         autoPlay: true,
+         timeline: [
+            { id: "dg7", tween: [ "transform", "${_home2}", "skewX", '-15deg', { fromValue: '0deg'}], position: 0, duration: 1000 },
+            { id: "dg8", tween: [ "transform", "${_home2}", "skewX", '0deg', { fromValue: '-15deg'}], position: 1000, duration: 1000 },
+            { id: "dg9", tween: [ "transform", "${_home2}", "skewX", '15deg', { fromValue: '0deg'}], position: 2000, duration: 1000 },
+            { id: "dg10", tween: [ "transform", "${_home2}", "skewX", '0deg', { fromValue: '15deg'}], position: 3000, duration: 1000 },
+            { id: "dg6", tween: [ "style", "${_home2}", "left", '5px', { fromValue: '5px'}], position: 0, duration: 0 },
+            { id: "dg1", tween: [ "style", "${_home2}", "top", '0px', { fromValue: '0px'}], position: 0, duration: 0 },
+            { id: "dg2", tween: [ "transform", "${_home2}", "rotateZ", '10deg', { fromValue: '0deg'}], position: 0, duration: 1000 },
+            { id: "dg3", tween: [ "transform", "${_home2}", "rotateZ", '0deg', { fromValue: '10deg'}], position: 1000, duration: 1000 },
+            { id: "dg4", tween: [ "transform", "${_home2}", "rotateZ", '-10deg', { fromValue: '0deg'}], position: 2000, duration: 1000 },
+            { id: "dg5", tween: [ "transform", "${_home2}", "rotateZ", '0deg', { fromValue: '-10deg'}], position: 3000, duration: 1000 }         ]
+      }
+   }
+},
+"home": {
+   version: "2.0.1",
+   minimumCompatibleVersion: "2.0.0",
+   build: "2.0.1.268",
+   baseState: "Base State",
+   initialState: "Base State",
+   gpuAccelerate: false,
+   resizeInstances: false,
+   content: {
+   dom: [
+   {
+      id: 'home3',
+      type: 'image',
+      rect: ['0px','-3px','100px','53px','auto','auto'],
+      fill: ['rgba(0,0,0,0)','images/home.svg','0px','0px']
+   }],
+   symbolInstances: [
+   ]
+   },
+   states: {
+      "Base State": {
+         "${_home3}": [
+            ["style", "top", '-3px'],
+            ["style", "height", '53px'],
+            ["style", "left", '0px'],
+            ["style", "width", '100px']
+         ],
+         "${symbolSelector}": [
+            ["style", "height", '48px'],
+            ["style", "width", '100px']
+         ]
+      }
+   },
+   timelines: {
+      "Default Timeline": {
+         fromState: "Base State",
+         toState: "",
+         duration: 0,
+         autoPlay: true,
+         timeline: [
+         ]
+      }
+   }
+}
+};
+
+
+Edge.registerCompositionDefn(compId, symbols, fonts, resources);
+
+/**
+ * Adobe Edge DOM Ready Event Handler
+ */
+$(window).ready(function() {
+     Edge.launchComposition(compId);
+});
+})(jQuery, AdobeEdge, "EDGE-4515200");
