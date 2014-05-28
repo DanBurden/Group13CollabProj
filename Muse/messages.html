@@ -15,8 +15,8 @@
   <link media="only screen and (max-device-width: 960px)" rel="alternate" href="index.html/tablet/messages.html"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?56319344"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?314348635"/>
-  <link rel="stylesheet" type="text/css" href="css/messages.css?4119568916" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?321154422"/>
+  <link rel="stylesheet" type="text/css" href="css/messages.css?4114561180" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -31,8 +31,21 @@
     <div class="clip_frame pinned-colelem" id="u140"><!-- image -->
      <img class="block" id="u140_img" src="images/logo.png" alt="" width="250" height="183"/>
     </div>
+    <div class="PamphletWidget clearfix colelem" id="pamphletu1227"><!-- none box -->
+     <div class="popup_anchor" id="u1230popup">
+      <div class="ContainerGroup clearfix" id="u1230"><!-- none box -->
+       <div class="Container invi clearfix grpelem" id="u1231"><!-- group -->
+        <a class="nonblock nontext MuseLinkActive clip_frame" id="u1232" href="messages.html"><!-- image --><img class="block" id="u1232_img" src="images/unread%20message.png" alt="" width="257" height="53"/></a>
+       </div>
+      </div>
+     </div>
+     <div class="ThumbGroup clearfix grpelem" id="u1234"><!-- none box -->
+      <div class="popup_anchor">
+       <div class="Thumb popup_element" id="u1235"><!-- simple frame --></div>
+      </div>
+     </div>
+    </div>
     <a class="nonblock nontext MuseLinkActive clip_frame pinned-colelem" id="u286" href="messages.html"><!-- image --><img class="block" id="u286_img" src="images/message.png" alt="" width="100" height="77"/></a>
-    <a class="nonblock nontext MuseLinkActive clip_frame pinned-colelem" id="u301" href="messages.html"><!-- image --><img class="block" id="u301_img" src="images/unread%20message.png" alt="" width="257" height="53"/></a>
     <a class="nonblock nontext clip_frame pinned-colelem" id="u965" href="home.html"><!-- image --><img class="block" id="u965_img" src="images/hometext.png" alt="" width="100" height="48"/></a>
     <a class="nonblock nontext clip_frame pinned-colelem" id="u242" href="index.html"><!-- image --><img class="block" id="u242_img" src="images/profile.png" alt="" width="114" height="55"/></a>
     <a class="nonblock nontext MuseLinkActive clip_frame pinned-colelem" id="u247" href="messages.html"><!-- image --><img class="block" id="u247_img" src="images/messages.png" alt="" width="147" height="53"/></a>
@@ -55,6 +68,10 @@
 </script>
   <script src="scripts/museutils.js?4291592202" type="text/javascript"></script>
   <script src="scripts/jquery.tobrowserwidth.js?3842421675" type="text/javascript"></script>
+  <script src="scripts/webpro.js?3903299128" type="text/javascript"></script>
+  <script src="scripts/musewpslideshow.js?138381373" type="text/javascript"></script>
+  <script src="scripts/jquery.museoverlay.js?4250894771" type="text/javascript"></script>
+  <script src="scripts/touchswipe.js?4156838003" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?4068933136" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -62,6 +79,7 @@
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 $('.browser_width').toBrowserWidth();/* browser width elements */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.initWidget('#pamphletu1227', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'loose',event:'mouseover',deactivationEvent:'mouseout_trigger',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true}); });/* #pamphletu1227 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

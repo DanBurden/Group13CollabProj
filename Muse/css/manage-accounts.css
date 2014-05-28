@@ -7,13 +7,12 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 798.9px;
+	min-height: 799px;
 	background-image: none;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: -1px;
@@ -21,7 +20,7 @@
 
 #page_position_content
 {
-	margin-top: 594px;
+	margin-top: 22px;
 	margin-bottom: -58px;
 }
 
@@ -52,6 +51,83 @@
 	left: 0px;
 }
 
+#pamphletu1227
+{
+	z-index: 27;
+	width: 0.01px;
+	height: 78px;
+	padding-bottom: 73px;
+	margin-left: 694px;
+}
+
+#u1230popup
+{
+	z-index: 28;
+}
+
+#u1230
+{
+	width: 333px;
+	top: 66px;
+}
+
+#u1231
+{
+	z-index: 29;
+	width: 333px;
+	height: 85px;
+	margin-right: -10000px;
+}
+
+#u1232
+{
+	z-index: 30;
+	width: 257px;
+	top: 105px;
+	left: 50%;
+	margin-left: 243px;
+}
+
+#u1234
+{
+	z-index: 32;
+	width: 100px;
+	margin-right: -10000px;
+	left: 106px;
+}
+
+#u1235
+{
+	width: 100px;
+	height: 78px;
+}
+
+.ie #u1235
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u1235:hover
+{
+	margin: 0px;
+}
+
+.ie #u1235:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u1235.PamphletThumbSelected
+{
+	margin: 0px;
+}
+
 #u286
 {
 	z-index: 15;
@@ -61,18 +137,9 @@
 	margin-left: 329px;
 }
 
-#u301
-{
-	z-index: 17;
-	width: 257px;
-	top: 106px;
-	left: 50%;
-	margin-left: 259px;
-}
-
 #u965
 {
-	z-index: 27;
+	z-index: 25;
 	width: 100px;
 	top: 173px;
 	left: 72px;
@@ -108,9 +175,10 @@
 	width: 265px;
 	height: 58px;
 	left: -107px;
+	margin-top: 421px;
 }
 
-.ie #u252
+.ie #u1235.PamphletThumbSelected,.ie #u252
 {
 	background-color: #FFFFFF;
 	opacity: 0.01;
@@ -136,14 +204,14 @@
 
 #u929-4
 {
-	z-index: 19;
+	z-index: 17;
 	width: 127px;
 	margin-right: -10000px;
 }
 
 #u930-4
 {
-	z-index: 23;
+	z-index: 21;
 	width: 135px;
 	margin-right: -10000px;
 	left: 168px;

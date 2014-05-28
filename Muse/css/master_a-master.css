@@ -1,3 +1,12 @@
+#u1235.PamphletThumbSelected
+{
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
 #u146
 {
 	border-width: 1px;
@@ -18,12 +27,52 @@
 	background-size: cover !important;
 }
 
-#u140,#u286,#u301,#u965,#u242,#u247,#u257,#u272
+#u1230
+{
+	position: absolute;
+}
+
+#u1231
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 15px 15px 0px 15px ;
+	-webkit-border-radius: 15px 15px 0px 15px ;
+	-khtml-border-radius: 15px 15px 0px 15px ;
+	border-radius: 15px 15px 0px 15px ;
+	position: relative;
+}
+
+#u1235
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#u1235:hover
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u140,#u1232,#u286,#u965,#u242,#u247,#u257,#u272
 {
 	position: fixed;
 }
 
-#u252,#u929-4,#u930-4
+#pamphletu1227,#u1234,#u252,#u929-4,#u930-4
 {
 	position: relative;
 }

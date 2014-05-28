@@ -1,0 +1,260 @@
+#u1191.PamphletThumbSelected
+{
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#u1091
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: fixed;
+	background: #FFFFFF url("../images/topnav.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u1071
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: fixed;
+	background: #FFFFFF url("../images/leftnav.jpg") no-repeat left center;
+	background-size: cover !important;
+}
+
+#u1199
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 15px 15px 0px 15px ;
+	-webkit-border-radius: 15px 15px 0px 15px ;
+	-khtml-border-radius: 15px 15px 0px 15px ;
+	border-radius: 15px 15px 0px 15px ;
+	position: relative;
+}
+
+#u1191
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#u1191:hover
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u1193,#u1114
+{
+	position: absolute;
+}
+
+#u1120,#u1115,#u1125,#u1154
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u1177-7,#u1116-7,#u1126-7,#u1172-7
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u1112
+{
+	position: absolute;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background-color: #FFFFFF;
+}
+
+#pu1112:hover #u1112
+{
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 1);
+	-pie-background: none;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+}
+
+#u1113
+{
+	vertical-align: top;
+	background: url("../images/u1113.png") no-repeat 0px 0px;
+}
+
+#pu1112:hover #u1113
+{
+	background: url("../images/u1113-r.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#pu1112.PamphletThumbSelected #u1113
+{
+	background: url("../images/u1113-a.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u1110
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u1110.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u1111
+{
+	vertical-align: top;
+	background: url("../images/u1111.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u1110:hover #u1111
+{
+	background: url("../images/u1111-r.png") no-repeat 0px 0px;
+}
+
+#u1110.PamphletThumbSelected #u1111
+{
+	background: url("../images/u1111-a.png") no-repeat 0px 0px;
+}
+
+#u1108
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#pu1108:hover #u1108
+{
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	-pie-background: none;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+}
+
+#u1109
+{
+	vertical-align: top;
+	background: url("../images/u1109.png") no-repeat 0px 0px;
+}
+
+#pu1108:hover #u1109
+{
+	background: url("../images/u1109-r.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#pu1108.PamphletThumbSelected #u1109
+{
+	background: url("../images/u1109-a.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u1160
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#pu1160:hover #u1160
+{
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	-pie-background: none;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+}
+
+#pu1112.PamphletThumbSelected #u1112,#pu1108.PamphletThumbSelected #u1108,#pu1160.PamphletThumbSelected #u1160
+{
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-pie-background: none;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+}
+
+#u1165
+{
+	vertical-align: top;
+	background: url("../images/u1165.png") no-repeat 0px 0px;
+}
+
+#pu1160.PamphletThumbSelected #u1165
+{
+	background: url("../images/u1165-a.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u1081,#u1089,#u1072,#u1085,#u1074,#u1083,#u1076,#u1079
+{
+	position: fixed;
+}
+
+#pamphletu1186,#u1189,#pamphletu1102,#u1107,#pu1112 #u1113,#pu1108 #u1109,#pu1160 #u1165,#pu1160:hover #u1165,#u1087,#u1078-4,#u1088-4
+{
+	position: relative;
+}
+
+#u1078-4_img,#u1088-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
