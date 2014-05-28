@@ -112,6 +112,7 @@
     bottom: auto;
     right: auto;
     visibility: visible;
+    z-index: 5;
 }
 
 #pro {
@@ -157,6 +158,85 @@
     z-index: 4;
     bottom: auto;
     right: auto;
+}
+
+#homemob {
+    float: left;
+    height: 60px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 60px;
+    position: fixed;
+    top: 25%;
+    left: 2.5%;
+    z-index: 5;
+    bottom: auto;
+    right: auto;
+    visibility: hidden;
+}
+
+#profmob {
+    float: left;
+    height: 60px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 60px;
+    position: fixed;
+    top: 40%;
+    left: 2.5%;
+    z-index: 5;
+    bottom: auto;
+    visibility: hidden;
+}
+
+#mesmob {
+    float: left;
+    height: 60px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 60px;
+    min-height: 50px;
+    position: fixed;
+    top: 55%;
+    left: 2.5%;
+    z-index: 5;
+    bottom: auto;
+    visibility: hidden;
+}
+
+#manmob {
+    float: left;
+    height: 60px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 60px;
+    min-height: 50px;
+    position: fixed;
+    top: 70%;
+    left: 2.5%;
+    z-index: 4;
+    bottom: auto;
+    visibility: hidden;
+}
+
+#promob {
+    float: left;
+    height: 60px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 60px;
+    min-height: 50px;
+    position: fixed;
+    top: 85%;
+    left: 2.5%;
+    z-index: 5;
+    bottom: auto;
+    visibility: hidden;
 }
 
 @media only screen and (max-width: 2560px) {
@@ -360,7 +440,7 @@
 
     #unread {
         float: left;
-        height: 80px;
+        height: auto;
         margin-left: 0px;
         margin-top: 0px;
         clear: none;
@@ -517,6 +597,62 @@
         z-index: 1;
         width: 13.018663%;
         height: 100%;
+        top: 0px;
+        left: 0%;
+    }
+
+    #homemob {
+        width: 60px;
+        height: 60px;
+    }
+
+    #profmob {
+        width: 60px;
+        height: 60px;
+    }
+
+    #mesmob {
+        width: 60px;
+        height: 60px;
+    }
+
+    #manmob {
+        width: 60px;
+        height: 60px;
+    }
+
+    #promob {
+        width: 60px;
+        height: 60px;
+    }
+
+    #home {
+        width: 6.998698%;
+    }
+
+    #mail {
+        width: 100px;
+    }
+
+    #unread {
+        width: 30%;
+        height: 80px;
+    }
+
+    #profile {
+        width: 7.992622%;
+    }
+
+    #message {
+        width: 9.99783%;
+    }
+
+    #manage {
+        width: 9.99783%;
+    }
+
+    #pro {
+        width: 6.998698%;
     }
 }
 
@@ -577,6 +713,31 @@
     #pro {
         visibility: hidden;
     }
+
+    #homemob {
+        visibility: visible;
+        right: auto;
+    }
+
+    #profmob {
+        visibility: visible;
+        right: auto;
+    }
+
+    #mesmob {
+        visibility: visible;
+        right: auto;
+    }
+
+    #manmob {
+        visibility: visible;
+        right: auto;
+    }
+
+    #promob {
+        visibility: visible;
+        right: auto;
+    }
 }
 
 @media only screen and (max-width: 480px) {
@@ -632,22 +793,126 @@
         z-index: 1;
         width: 13.017578%;
         height: 100%;
+        top: 0px;
+        left: 0%;
     }
 
     #home {
         visibility: hidden;
+        width: 6.998698%;
     }
 
     #profile {
         visibility: hidden;
+        width: 7.985026%;
     }
 
     #message {
         visibility: hidden;
+        width: 9.996745%;
     }
 
     #pro {
         visibility: hidden;
+        width: 6.998698%;
+    }
+
+    #homemob {
+        float: left;
+        height: 60px;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 60px;
+        position: fixed;
+        top: 25%;
+        z-index: 5;
+        bottom: auto;
+        right: auto;
+        visibility: visible;
+        left: 0%;
+    }
+
+    #unread {
+        top: 8.59879%;
+        left: 68.268229%;
+        width: 30%;
+        height: 80px;
+    }
+
+    #mail {
+        width: 100px;
+    }
+
+    #manage {
+        width: 9.996745%;
+    }
+
+    #profmob {
+        float: left;
+        height: 60px;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 60px;
+        position: fixed;
+        top: 40%;
+        z-index: 5;
+        bottom: auto;
+        visibility: visible;
+        left: 0%;
+        right: auto;
+    }
+
+    #mesmob {
+        float: left;
+        height: 60px;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 60px;
+        min-height: 50px;
+        position: fixed;
+        top: 55%;
+        z-index: 5;
+        bottom: auto;
+        visibility: visible;
+        left: 0%;
+        right: auto;
+    }
+
+    #manmob {
+        float: left;
+        height: 60px;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 60px;
+        min-height: 50px;
+        position: fixed;
+        top: 70%;
+        z-index: 4;
+        bottom: auto;
+        visibility: visible;
+        left: 0%;
+        right: auto;
+    }
+
+    #promob {
+        float: left;
+        height: 60px;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 60px;
+        min-height: 50px;
+        position: fixed;
+        top: 85%;
+        z-index: 5;
+        bottom: auto;
+        visibility: visible;
+        left: 0%;
+        right: auto;
     }
 }
 

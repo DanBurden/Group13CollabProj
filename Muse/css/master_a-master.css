@@ -1,0 +1,36 @@
+#u146
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: fixed;
+	background: #FFFFFF url("../images/topnav.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u153
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: fixed;
+	background: #FFFFFF url("../images/leftnav.jpg") no-repeat left center;
+	background-size: cover !important;
+}
+
+#u140,#u286,#u301,#u965,#u242,#u247,#u257,#u272
+{
+	position: fixed;
+}
+
+#u252,#u929-4,#u930-4
+{
+	position: relative;
+}
+
+#u929-4_img,#u930-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
