@@ -90,14 +90,6 @@
 	margin-top: 76px;
 }
 
-.ie #u418
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
 #u463
 {
 	z-index: 11;
@@ -137,6 +129,442 @@
 	margin-right: -10000px;
 	margin-top: 139px;
 	left: 20px;
+}
+
+#pamphletu1731
+{
+	z-index: 27;
+	width: 0.01px;
+	height: 213px;
+	padding-bottom: 554px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 118px;
+	left: 123px;
+}
+
+#u1736
+{
+	position: absolute;
+	width: 542px;
+	top: 231px;
+	left: 5px;
+}
+
+#u1736popup
+{
+	z-index: 28;
+}
+
+#u1752
+{
+	z-index: 29;
+	width: 537px;
+	height: 489px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	margin-bottom: -13px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1753-7
+{
+	z-index: 30;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1747
+{
+	z-index: 40;
+	width: 537px;
+	height: 469px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -81px;
+	left: 311px;
+}
+
+#u1748-7
+{
+	z-index: 41;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 20px;
+}
+
+#u1737
+{
+	z-index: 51;
+	width: 640px;
+	height: 535px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	margin-bottom: -59px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1738-7
+{
+	z-index: 52;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1778
+{
+	z-index: 62;
+	width: 542px;
+	height: 476px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1804-7
+{
+	z-index: 63;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1819
+{
+	z-index: 73;
+	width: 542px;
+	height: 476px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1828-7
+{
+	z-index: 74;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1762
+{
+	z-index: 84;
+	width: 540px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 10px;
+}
+
+#pu1763
+{
+	position: absolute;
+	width: 0.01px;
+	top: -7px;
+	left: -10px;
+}
+
+#u1763
+{
+	position: absolute;
+	width: 305px;
+	height: 61px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background-color: #FFFFFF;
+}
+
+#pu1763:hover #u1763
+{
+	width: 306px;
+	height: 62px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 1);
+	-pie-background: none;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	top: 0px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 1px;
+}
+
+#pu1763.PamphletThumbSelected #u1763
+{
+	width: 306px;
+	height: 62px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-pie-background: none;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	top: 0px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 1px;
+}
+
+#u1764
+{
+	z-index: 88;
+	height: 55px;
+	width: 296px;
+	vertical-align: top;
+	background: url("../../images/u1764.png") no-repeat 0px 0px;
+}
+
+#pu1763:hover #u1764
+{
+	background: url("../../images/u1764-r.png") no-repeat 0px 0px;
+	position: relative;
+	width: 296px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 10px;
+}
+
+#pu1763.PamphletThumbSelected #u1764
+{
+	background: url("../../images/u1764-a.png") no-repeat 0px 0px;
+	position: relative;
+	width: 296px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 10px;
+}
+
+#pu1763 #u1764
+{
+	position: relative;
+	width: 296px;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 9px;
+}
+
+#u1765
+{
+	position: absolute;
+	width: 233px;
+	height: 53px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	top: 144px;
+	left: 7px;
+}
+
+.ie #u418,.ie #u1765
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u1765:hover
+{
+	margin: 0px;
+}
+
+.ie #u1765:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u1765.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin: 0px;
+}
+
+.ie #u1765.PamphletThumbSelected
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u1769
+{
+	position: absolute;
+	width: 232px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	top: 135px;
+	left: -4px;
+}
+
+#u1769:hover
+{
+	margin: 0px;
+}
+
+#u1769.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	margin: 0px;
+}
+
+#u1770
+{
+	z-index: 96;
+	height: 64px;
+	width: 222px;
+	vertical-align: top;
+	background: url("../../images/u1770.png") no-repeat 0px 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 10px;
+}
+
+#u1769:hover #u1770
+{
+	background: url("../../images/u1770-r.png") no-repeat 0px 0px;
+}
+
+#u1769.PamphletThumbSelected #u1770
+{
+	background: url("../../images/u1770-a.png") no-repeat 0px 0px;
+}
+
+#u1785
+{
+	position: absolute;
+	width: 232px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 9px;
+	top: -7px;
+	left: 319px;
+}
+
+#u1785:hover
+{
+	margin: 0px;
+}
+
+#u1788
+{
+	z-index: 101;
+	height: 48px;
+	width: 191px;
+	vertical-align: top;
+	background: url("../../images/u1788.png") no-repeat 0px 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 20px;
+}
+
+#u1785:hover #u1788
+{
+	background: url("../../images/u1788-r.png") no-repeat 0px 0px;
+}
+
+#u1785:active #u1788
+{
+	background: url("../../images/u1788-m.png") no-repeat 0px 0px;
+}
+
+#u1785.PamphletThumbSelected #u1788
+{
+	background: url("../../images/u1788-a.png") no-repeat 0px 0px;
+}
+
+#u1825
+{
+	position: absolute;
+	width: 232px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 12px;
+	top: 130px;
+	left: 339px;
+}
+
+#u1825:hover
+{
+	margin: 0px;
+}
+
+#u1785.PamphletThumbSelected,#u1825.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin: 0px;
+}
+
+#u1827
+{
+	z-index: 107;
+	height: 43px;
+	width: 195px;
+	vertical-align: top;
+	background: url("../../images/u1827.png") no-repeat 0px 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 7px;
+}
+
+#u1825:hover #u1827
+{
+	background: url("../../images/u1827-r.png") no-repeat 0px 0px;
+}
+
+#u1825.PamphletThumbSelected #u1827
+{
+	background: url("../../images/u1827-a.png") no-repeat 0px 0px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
 }
 
 #u968-4

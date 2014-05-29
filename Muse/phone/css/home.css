@@ -71,7 +71,8 @@
 {
 	min-height: 336px;
 	z-index: 7;
-	margin-top: 13px;
+	top: -1px;
+	margin-bottom: -1px;
 }
 
 #accordionu784

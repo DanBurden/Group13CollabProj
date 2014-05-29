@@ -51,12 +51,6 @@
 	border-radius: 10px;
 }
 
-#u1191:hover
-{
-	border-style: none;
-	border-color: transparent;
-}
-
 .PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
 {
 	cursor: pointer;
@@ -105,6 +99,19 @@
 	border-radius: 0px;
 }
 
+#pu1112.PamphletThumbSelected #u1112
+{
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-pie-background: none;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+}
+
 #u1113
 {
 	vertical-align: top;
@@ -126,13 +133,6 @@
 #u1110
 {
 	position: absolute;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-}
-
-#u1110.PamphletThumbSelected
-{
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -163,36 +163,27 @@
 	background-color: transparent;
 }
 
-#pu1108:hover #u1108
+#u1191:hover,#u1108.PamphletThumbSelected
 {
-	background-image: none;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #999999;
-	background-color: transparent;
-	-pie-background: none;
-	-moz-border-radius: 0px;
-	-webkit-border-radius: 0px;
-	-khtml-border-radius: 0px;
-	border-radius: 0px;
+	border-style: none;
+	border-color: transparent;
 }
 
 #u1109
 {
 	vertical-align: top;
 	background: url("../images/u1109.png") no-repeat 0px 0px;
+	position: relative;
 }
 
-#pu1108:hover #u1109
+#u1108:hover #u1109
 {
 	background: url("../images/u1109-r.png") no-repeat 0px 0px;
-	position: relative;
 }
 
-#pu1108.PamphletThumbSelected #u1109
+#u1108.PamphletThumbSelected #u1109
 {
 	background: url("../images/u1109-a.png") no-repeat 0px 0px;
-	position: relative;
 }
 
 #u1160
@@ -203,43 +194,28 @@
 	background-color: transparent;
 }
 
-#pu1160:hover #u1160
+#u1110.PamphletThumbSelected,#u1160.PamphletThumbSelected
 {
-	background-image: none;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #999999;
-	background-color: transparent;
-	-pie-background: none;
-	-moz-border-radius: 0px;
-	-webkit-border-radius: 0px;
-	-khtml-border-radius: 0px;
-	border-radius: 0px;
-}
-
-#pu1112.PamphletThumbSelected #u1112,#pu1108.PamphletThumbSelected #u1108,#pu1160.PamphletThumbSelected #u1160
-{
-	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	-pie-background: none;
-	-moz-border-radius: 0px;
-	-webkit-border-radius: 0px;
-	-khtml-border-radius: 0px;
-	border-radius: 0px;
 }
 
 #u1165
 {
 	vertical-align: top;
 	background: url("../images/u1165.png") no-repeat 0px 0px;
+	position: relative;
 }
 
-#pu1160.PamphletThumbSelected #u1165
+#u1160:hover #u1165
+{
+	background: url("../images/u1165-r.png") no-repeat 0px 0px;
+}
+
+#u1160.PamphletThumbSelected #u1165
 {
 	background: url("../images/u1165-a.png") no-repeat 0px 0px;
-	position: relative;
 }
 
 #u1081,#u1089,#u1072,#u1085,#u1074,#u1083,#u1076,#u1079
@@ -247,7 +223,7 @@
 	position: fixed;
 }
 
-#pamphletu1186,#u1189,#pamphletu1102,#u1107,#pu1112 #u1113,#pu1108 #u1109,#pu1160 #u1165,#pu1160:hover #u1165,#u1087,#u1078-4,#u1088-4
+#pamphletu1186,#u1189,#pamphletu1102,#u1107,#pu1112 #u1113,#u1087,#u1078-4,#u1088-4
 {
 	position: relative;
 }
