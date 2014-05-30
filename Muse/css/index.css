@@ -1,6 +1,6 @@
 .html
 {
-	background-color: #FFFFFF;
+	background-color: #998675;
 }
 
 #page
@@ -8,14 +8,8 @@
 	z-index: 1;
 	width: 960px;
 	min-height: 799px;
-	background-image: none;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #FFFFFF;
-	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: -1px;
 }
 
 #page_position_content
@@ -38,7 +32,7 @@
 {
 	z-index: 3;
 	width: 242px;
-	height: 1510px;
+	height: 1529px;
 	top: 0px;
 	left: 0px;
 }
@@ -83,7 +77,7 @@
 {
 	z-index: 30;
 	width: 257px;
-	top: 105px;
+	top: 104px;
 	left: 50%;
 	margin-left: 243px;
 }
@@ -330,14 +324,14 @@
 
 #u1594
 {
-	width: 620px;
+	width: 621px;
 }
 
 #u1599
 {
 	z-index: 52;
-	width: 620px;
-	height: 426px;
+	width: 619px;
+	height: 425px;
 	margin-right: -10000px;
 }
 
@@ -345,15 +339,15 @@
 {
 	z-index: 53;
 	margin-right: -10000px;
-	margin-top: 24px;
-	left: 10px;
+	margin-top: 23px;
+	left: 9px;
 }
 
 #u1595
 {
 	z-index: 65;
-	width: 620px;
-	height: 426px;
+	width: 619px;
+	height: 425px;
 	margin-right: -10000px;
 }
 
@@ -361,15 +355,15 @@
 {
 	z-index: 66;
 	margin-right: -10000px;
-	margin-top: 24px;
-	left: 9px;
+	margin-top: 23px;
+	left: 8px;
 }
 
 #u1603
 {
 	z-index: 71;
-	width: 620px;
-	height: 426px;
+	width: 619px;
+	height: 425px;
 	margin-right: -10000px;
 }
 
@@ -377,8 +371,8 @@
 {
 	z-index: 72;
 	margin-right: -10000px;
-	margin-top: 24px;
-	left: 8px;
+	margin-top: 23px;
+	left: 7px;
 }
 
 #u1286

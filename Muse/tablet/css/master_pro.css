@@ -1,0 +1,91 @@
+#u2304
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	background: #FFFFFF url("../../images/topnav2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2314
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	background: #FFFFFF url("../../images/leftnav2.jpg") no-repeat left center;
+	background-size: cover !important;
+}
+
+#u2312
+{
+	position: relative;
+	background: transparent url("../../images/homeicon.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2316
+{
+	position: relative;
+	background: transparent url("../../images/profileicon.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2316.MuseLinkActive
+{
+	background: transparent url("../../images/profileactive320x321.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2307
+{
+	position: relative;
+	background: transparent url("../../images/messageicon.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2307.MuseLinkActive
+{
+	background: transparent url("../../images/messageactive417x320.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2313
+{
+	position: relative;
+	background: transparent url("../../images/manageaccountsicon.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2313.MuseLinkActive
+{
+	background: transparent url("../../images/manageaccountsactive321x320.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2308
+{
+	position: relative;
+	background: transparent url("../../images/progreenactive.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2308.MuseLinkActive
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain !important;
+}
+
+#u2305,#u2310,#u2315-4,#u2309-4
+{
+	position: relative;
+}
+
+#u2315-4_img,#u2309-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+

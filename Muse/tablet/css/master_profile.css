@@ -10,12 +10,76 @@
 
 #u1678
 {
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
+	border-color: #93278F;
 	position: relative;
-	background: #FFFFFF url("../../images/leftnav.jpg") no-repeat left center;
+	background: #FFFFFF url("../../images/leftnav.jpg") no-repeat center center;
 	background-size: cover !important;
+}
+
+#u1688
+{
+	position: relative;
+	background: transparent url("../../images/profileactive320x321.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u1688.MuseLinkActive
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain !important;
+}
+
+#u1685
+{
+	position: relative;
+	background: transparent url("../../images/messageicon.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u1685.MuseLinkActive
+{
+	background: transparent url("../../images/messageactive417x320.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u1694
+{
+	position: relative;
+	background: transparent url("../../images/manageaccountsicon.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u1694.MuseLinkActive
+{
+	background: transparent url("../../images/manageaccountsactive321x320.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u1692
+{
+	position: relative;
+	background: transparent url("../../images/progreenicon.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u1692.MuseLinkActive
+{
+	background: transparent url("../../images/progreenactive.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u1680
+{
+	position: relative;
+	background: transparent url("../../images/homeicon.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u1680.MuseLinkActive
+{
+	background: transparent url("../../images/homeactive324x320.png") no-repeat center center;
+	background-size: contain !important;
 }
 
 #u1709
@@ -43,9 +107,9 @@
 {
 	border-color: #DEDEDE;
 	background-color: transparent;
+	line-height: 20px;
 	color: #C4C4C4;
 	text-align: center;
-	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -100,9 +164,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 20px;
 	color: #C4C4C4;
 	text-align: center;
-	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -156,9 +220,9 @@
 {
 	border-color: #DEDEDE;
 	background-color: transparent;
+	line-height: 20px;
 	color: #C4C4C4;
 	text-align: center;
-	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -212,8 +276,9 @@
 	background: linear-gradient(to bottom,#F15A24 ,#FBB03B 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF15A24, endColorstr=#FFFBB03B, GradientType=0);
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF15A24', endColorstr='#FFFBB03B', GradientType=0)";
-	border-style: none;
-	border-color: transparent;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
 	position: relative;
 }
 
@@ -227,8 +292,9 @@
 	background: linear-gradient(to right,#F15A24 ,#F7931E 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF15A24, endColorstr=#FFF7931E, GradientType=1);
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF15A24', endColorstr='#FFF7931E', GradientType=1)";
-	border-style: none;
-	border-color: transparent;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
 	position: relative;
 }
 
@@ -242,8 +308,9 @@
 	background: linear-gradient(to right,#F7931E ,#F15A24 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=1);
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=1)";
-	border-style: none;
-	border-color: transparent;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
 	position: relative;
 }
 
@@ -259,7 +326,7 @@
 	cursor: pointer;
 }
 
-#u1690,#u1682,#u1696,#u1688,#u1685,#u1694,#u1692,#u1680,#pamphletu1705,#u1706,#u1679-4,#u1684-4
+#u1690,#u1682,#u1696,#pamphletu1705,#u1706,#u1679-4,#u1684-4
 {
 	position: relative;
 }

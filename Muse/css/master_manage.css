@@ -1,0 +1,85 @@
+#u2455.PamphletThumbSelected
+{
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#u2477
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: fixed;
+	background: #FFFFFF url("../images/topnav2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2472
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: fixed;
+	background: #FFFFFF url("../images/leftnav2.jpg") no-repeat left center;
+	background-size: cover !important;
+}
+
+#u2458
+{
+	position: absolute;
+}
+
+#u2459
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 15px 15px 0px 15px ;
+	-webkit-border-radius: 15px 15px 0px 15px ;
+	-khtml-border-radius: 15px 15px 0px 15px ;
+	border-radius: 15px 15px 0px 15px ;
+	position: relative;
+}
+
+#u2455
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#u2455:hover
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u2479,#u2460,#u2473,#u2469,#u2449,#u2475,#u2467,#u2447
+{
+	position: fixed;
+}
+
+#pamphletu2451,#u2454,#u2466,#u2471-4,#u2478-4
+{
+	position: relative;
+}
+
+#u2471-4_img,#u2478-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
