@@ -13,7 +13,7 @@
 	border-style: solid;
 	border-color: #000000;
 	position: fixed;
-	background: #FFFFFF url("../images/topnav2.jpg") no-repeat center center;
+	background: #FFFFFF url("../images/topnav.jpg") no-repeat center center;
 	background-size: cover !important;
 }
 
@@ -23,7 +23,7 @@
 	border-style: solid;
 	border-color: #000000;
 	position: fixed;
-	background: #FFFFFF url("../images/leftnav2.jpg") no-repeat left center;
+	background: #FFFFFF url("../images/leftnav.jpg") no-repeat left center;
 	background-size: cover !important;
 }
 

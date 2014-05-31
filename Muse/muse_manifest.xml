@@ -1,60 +1,60 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="tablet">
     <folder name="css">
-      <file name="home.css" crc="324615443" ref="tablet>home"/>
-      <file name="manage-accounts.css" crc="163327679" ref="tablet>manage-accounts"/>
-      <file name="index.css" crc="4160971438" ref="tablet>index"/>
-      <file name="pro.css" crc="3785533974" ref="tablet>pro"/>
+      <file name="home.css" crc="352087700" ref="tablet>home"/>
+      <file name="manage-accounts.css" crc="3938449156" ref="tablet>manage-accounts"/>
+      <file name="index.css" crc="4110889818" ref="tablet>index"/>
+      <file name="pro.css" crc="44135341" ref="tablet>pro"/>
       <file name="messages.css" crc="4176074356" ref="tablet>messages"/>
-      <file name="master_profile.css" crc="485185267" ref="tablet>index"/>
-      <file name="master_pro.css" crc="4187207424" ref="tablet>pro"/>
-      <file name="master_manage.css" crc="4140397610" ref="tablet>manage-accounts"/>
+      <file name="master_profile.css" crc="3791614751" ref="tablet>index"/>
+      <file name="master_pro.css" crc="4148392256" ref="tablet>pro"/>
+      <file name="master_manage.css" crc="3891115578" ref="tablet>manage-accounts"/>
       <file name="master_messages.css" crc="96227635" ref="tablet>messages"/>
-      <file name="master_home.css" crc="4253887860" ref="tablet>home"/>
+      <file name="master_home.css" crc="3804821884" ref="tablet>home"/>
     </folder>
-    <file name="index.html" crc="4204185983" mt="1401448993235" redirect="true"/>
-    <file name="home.html" crc="274373797" mt="1401449104338" redirect="true"/>
+    <file name="index.html" crc="4044203186" mt="1401536406658" redirect="true"/>
+    <file name="home.html" crc="283887524" mt="1401471208642" redirect="true"/>
     <file name="messages.html" crc="4050581765" mt="1401448956191" redirect="true"/>
-    <file name="manage-accounts.html" crc="335918056" mt="1401447693071" redirect="true"/>
-    <file name="pro.html" crc="288650330" mt="1401447693073" redirect="true"/>
+    <file name="manage-accounts.html" crc="335918056" mt="1401470269912" redirect="true"/>
+    <file name="pro.html" crc="288650330" mt="1401470275505" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="messages.css" crc="3761763284" ref="phone>messages"/>
+      <file name="messages.css" crc="242763610" ref="phone>messages"/>
       <file name="home.css" crc="4205732494" ref="phone>home"/>
-      <file name="manage-accounts.css" crc="162069224" ref="phone>manage-accounts"/>
-      <file name="index.css" crc="3877625077" ref="phone>index"/>
-      <file name="pro.css" crc="322471527" ref="phone>pro"/>
-      <file name="master_profile.css" crc="535570231" ref="phone>index"/>
+      <file name="manage-accounts.css" crc="3939819757" ref="phone>manage-accounts"/>
+      <file name="index.css" crc="159468148" ref="phone>index"/>
+      <file name="pro.css" crc="3818913234" ref="phone>pro"/>
+      <file name="master_profile.css" crc="507293256" ref="phone>index"/>
       <file name="master_pro.css" crc="457033988" ref="phone>pro"/>
-      <file name="master_manage.css" crc="328746873" ref="phone>manage-accounts"/>
+      <file name="master_manage.css" crc="1343491" ref="phone>manage-accounts"/>
       <file name="master_home.css" crc="4048720068" ref="phone>home"/>
-      <file name="master_message.css" crc="44319061" ref="phone>messages"/>
+      <file name="master_message.css" crc="4204185448" ref="phone>messages"/>
     </folder>
-    <file name="index.html" crc="284939202" mt="1401447612852" redirect="true"/>
-    <file name="home.html" crc="4043169680" mt="1401448715166" redirect="true"/>
-    <file name="messages.html" crc="3829185908" mt="1401402353856" redirect="true"/>
-    <file name="manage-accounts.html" crc="4182147635" mt="1401402356296" redirect="true"/>
-    <file name="pro.html" crc="14154565" mt="1401402358127" redirect="true"/>
+    <file name="index.html" crc="4080659918" mt="1401536766363" redirect="true"/>
+    <file name="home.html" crc="3919503567" mt="1401470530955" redirect="true"/>
+    <file name="messages.html" crc="3906670367" mt="1401470418557" redirect="true"/>
+    <file name="manage-accounts.html" crc="198933689" mt="1401470378738" redirect="true"/>
+    <file name="pro.html" crc="45262031" mt="1401470296510" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="56319344"/>
     <file name="home.css" crc="3803665606" ref="home"/>
-    <file name="index.css" crc="348269167" ref="index"/>
-    <file name="manage-accounts.css" crc="461627830" ref="manage-accounts"/>
-    <file name="pro.css" crc="3963425382" ref="pro"/>
+    <file name="index.css" crc="521585577" ref="index"/>
+    <file name="manage-accounts.css" crc="161146708" ref="manage-accounts"/>
+    <file name="pro.css" crc="4263777412" ref="pro"/>
     <file name="messages.css" crc="55576040" ref="messages"/>
     <file name="master_home.css" crc="4193051725" ref="home"/>
-    <file name="master_profile.css" crc="3777753583" ref="index"/>
-    <file name="master_manage.css" crc="3897460956" ref="manage-accounts"/>
-    <file name="master_pro.css" crc="3986211006" ref="pro"/>
+    <file name="master_profile.css" crc="363720197" ref="index"/>
+    <file name="master_manage.css" crc="19294008" ref="manage-accounts"/>
+    <file name="master_pro.css" crc="3849746480" ref="pro"/>
     <file name="master_messages.css" crc="439056976" ref="messages"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home:phone>index:phone>home:phone>messages:phone>manage-accounts:phone>pro:tablet>index:tablet>home:tablet>messages:tablet>manage-accounts:tablet>pro:messages:manage-accounts:pro"/>
     <file name="museutils.js" crc="4291592202" ref="index:home:phone>index:phone>home:phone>messages:phone>manage-accounts:phone>pro:tablet>index:tablet>home:tablet>messages:tablet>manage-accounts:tablet>pro:messages:manage-accounts:pro"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:tablet>index:home:tablet>home:messages:tablet>messages:tablet>manage-accounts:tablet>pro:manage-accounts:pro"/>
-    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:home:phone>index:phone>home:phone>messages:phone>manage-accounts:phone>pro:tablet>index:tablet>home:tablet>messages:tablet>manage-accounts:tablet>pro:messages:manage-accounts:pro"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:home:phone>index:phone>home:phone>manage-accounts:phone>pro:tablet>index:tablet>home:tablet>messages:tablet>manage-accounts:tablet>pro:messages:manage-accounts:pro"/>
     <file name="jquery.watch.js" crc="4068933136" ref="index:home:phone>index:phone>home:phone>messages:phone>manage-accounts:phone>pro:tablet>index:tablet>home:tablet>messages:tablet>manage-accounts:tablet>pro:messages:manage-accounts:pro"/>
     <file name="webpro.js" crc="3903299128" ref="phone>index:phone>home:phone>messages:phone>manage-accounts:phone>pro:index:home:messages:manage-accounts:pro:tablet>index:tablet>home"/>
     <file name="musewpdisclosure.js" crc="4285748861" ref="phone>index:phone>home:phone>messages:phone>manage-accounts:phone>pro"/>
@@ -65,8 +65,8 @@
     <file name="touchswipe.js" crc="4156838003" ref="index:home:messages:manage-accounts:pro:phone>index:tablet>index:tablet>home:phone>home"/>
   </folder>
   <folder name="images">
-    <file name="topnav.jpg" crc="397043664" ref="tablet>index"/>
-    <file name="leftnav.jpg" crc="305429027" ref="tablet>index"/>
+    <file name="topnav.jpg" crc="397043664" ref="tablet>index:tablet>home:tablet>manage-accounts:tablet>pro:manage-accounts:pro"/>
+    <file name="leftnav.jpg" crc="305429027" ref="tablet>index:tablet>home:tablet>manage-accounts:tablet>pro:manage-accounts:pro"/>
     <file name="logo.png" crc="498419108" ref="index:home:phone>index:phone>home:phone>messages:phone>manage-accounts:phone>pro:tablet>index:tablet>home:tablet>messages:tablet>manage-accounts:tablet>pro:messages:manage-accounts:pro"/>
     <file name="profile.png" crc="3832171540" ref="index:home:messages:manage-accounts:pro"/>
     <file name="messages.png" crc="30444440" ref="index:home:messages:manage-accounts:pro"/>
@@ -101,9 +101,6 @@
     <file name="u1165-a.png" crc="4087851594" ref="home"/>
     <file name="u1078-4.png" crc="145358365" ref="home"/>
     <file name="u1088-4.png" crc="102675606" ref="home"/>
-    <file name="u1602-12.png" crc="224248748" ref="index"/>
-    <file name="u1596-5.png" crc="29055762" ref="index"/>
-    <file name="u1604-5.png" crc="3862669172" ref="index"/>
     <file name="u1285-4.png" crc="145358365" ref="index"/>
     <file name="u1297-4.png" crc="102675606" ref="index"/>
     <file name="u1906.png" crc="3961304945" ref="phone>index"/>
@@ -111,20 +108,14 @@
     <file name="u1906-m.png" crc="3961304945" ref="phone>index"/>
     <file name="u1906-a.png" crc="40574566" ref="phone>index"/>
     <file name="u1916-3.png" crc="182967404" ref="phone>index"/>
-    <file name="u1998-12.png" crc="3788269754" ref="phone>index"/>
-    <file name="u1994-5.png" crc="4286886029" ref="phone>index"/>
-    <file name="u1996-5.png" crc="335850623" ref="phone>index"/>
     <file name="u1919-4.png" crc="4041800301" ref="phone>index"/>
     <file name="u1920-4.png" crc="99015302" ref="phone>index"/>
-    <file name="u1728-12.png" crc="224248748" ref="tablet>index"/>
-    <file name="u1724-5.png" crc="29055762" ref="tablet>index"/>
-    <file name="u1726-5.png" crc="3862669172" ref="tablet>index"/>
     <file name="u1679-4.png" crc="31478570" ref="tablet>index"/>
     <file name="u1684-4.png" crc="296861781" ref="tablet>index"/>
     <file name="contentborder.png" crc="3922406855" ref="tablet>messages:messages"/>
     <file name="contentborder2.png" crc="446018069" ref="tablet>messages:messages"/>
     <file name="u1165-r.png" crc="3965490682" ref="home"/>
-    <file name="favicon.ico" crc="208184789" ref="index"/>
+    <file name="favicon.ico" crc="208184789" ref="index:manage-accounts"/>
     <file name="u1948.png" crc="4153386557" ref="phone>home"/>
     <file name="u1948-r.png" crc="4153386557" ref="phone>home"/>
     <file name="u1948-m.png" crc="4153386557" ref="phone>home"/>
@@ -132,30 +123,30 @@
     <file name="u1960-3.png" crc="182967404" ref="phone>home"/>
     <file name="u1961-4.png" crc="4041800301" ref="phone>home"/>
     <file name="u1967-4.png" crc="145358365" ref="phone>home"/>
-    <file name="u2565.png" crc="198517605" ref="phone>messages"/>
-    <file name="u2565-r.png" crc="198517605" ref="phone>messages"/>
-    <file name="u2565-m.png" crc="198517605" ref="phone>messages"/>
-    <file name="u2565-a.png" crc="3794355079" ref="phone>messages"/>
+    <file name="u2565.png" crc="4153386557" ref="phone>messages"/>
+    <file name="u2565-r.png" crc="4153386557" ref="phone>messages"/>
+    <file name="u2565-m.png" crc="4153386557" ref="phone>messages"/>
+    <file name="u2565-a.png" crc="3840881079" ref="phone>messages"/>
     <file name="u2567-3.png" crc="182967404" ref="phone>messages"/>
     <file name="u2545-4.png" crc="4041800301" ref="phone>messages"/>
     <file name="u2542-4.png" crc="99015302" ref="phone>messages"/>
-    <file name="u2518.png" crc="198517605" ref="phone>manage-accounts"/>
-    <file name="u2518-r.png" crc="198517605" ref="phone>manage-accounts"/>
-    <file name="u2518-m.png" crc="198517605" ref="phone>manage-accounts"/>
-    <file name="u2518-a.png" crc="3794355079" ref="phone>manage-accounts"/>
+    <file name="u2518.png" crc="4153386557" ref="phone>manage-accounts"/>
+    <file name="u2518-r.png" crc="4153386557" ref="phone>manage-accounts"/>
+    <file name="u2518-m.png" crc="4153386557" ref="phone>manage-accounts"/>
+    <file name="u2518-a.png" crc="3840881079" ref="phone>manage-accounts"/>
     <file name="u2520-3.png" crc="182967404" ref="phone>manage-accounts"/>
     <file name="u2498-4.png" crc="4041800301" ref="phone>manage-accounts"/>
     <file name="u2495-4.png" crc="99015302" ref="phone>manage-accounts"/>
-    <file name="u2605.png" crc="198517605" ref="phone>pro"/>
-    <file name="u2605-r.png" crc="198517605" ref="phone>pro"/>
-    <file name="u2605-m.png" crc="198517605" ref="phone>pro"/>
-    <file name="u2605-a.png" crc="3794355079" ref="phone>pro"/>
+    <file name="u2605.png" crc="4153386557" ref="phone>pro"/>
+    <file name="u2605-r.png" crc="4153386557" ref="phone>pro"/>
+    <file name="u2605-m.png" crc="4153386557" ref="phone>pro"/>
+    <file name="u2605-a.png" crc="3840881079" ref="phone>pro"/>
     <file name="u2609-3.png" crc="182967404" ref="phone>pro"/>
     <file name="u2588-4.png" crc="4041800301" ref="phone>pro"/>
     <file name="u2618-4.png" crc="99015302" ref="phone>pro"/>
-    <file name="profileactive320x321.png" crc="159207317" ref="tablet>index"/>
-    <file name="messageactive417x320.png" crc="3895393733" ref="tablet>index"/>
-    <file name="manageaccountsactive321x320.png" crc="4035156979" ref="tablet>index"/>
+    <file name="profileactive320x321.png" crc="159207317" ref="tablet>index:tablet>home"/>
+    <file name="messageactive417x320.png" crc="3895393733" ref="tablet>index:tablet>home"/>
+    <file name="manageaccountsactive321x320.png" crc="4035156979" ref="tablet>index:tablet>home"/>
     <file name="progreenactive.png" crc="360097213" ref="tablet>index:tablet>home:tablet>messages:tablet>manage-accounts:tablet>pro"/>
     <file name="homeactive324x320.png" crc="3995983073" ref="tablet>index"/>
     <file name="homeactive405x400.png" crc="376285288" ref="tablet>home"/>
@@ -179,11 +170,11 @@
     <file name="u2478-4.png" crc="102675606" ref="manage-accounts"/>
     <file name="u2424-4.png" crc="145358365" ref="pro"/>
     <file name="u2431-4.png" crc="102675606" ref="pro"/>
-    <file name="u2792-7.png" crc="4139084708" ref="phone>home"/>
+    <file name="u2792-7.png" crc="352243586" ref="phone>home"/>
     <file name="u2787-7.png" crc="33317325" ref="phone>home"/>
-    <file name="u2797-7.png" crc="4139084708" ref="phone>home"/>
-    <file name="u2807-7.png" crc="4139084708" ref="phone>home"/>
-    <file name="u2802-7.png" crc="4139084708" ref="phone>home"/>
+    <file name="u2797-7.png" crc="352243586" ref="phone>home"/>
+    <file name="u2807-7.png" crc="352243586" ref="phone>home"/>
+    <file name="u2802-7.png" crc="352243586" ref="phone>home"/>
     <file name="u2768.png" crc="3878173761" ref="phone>home"/>
     <file name="u2768-r.png" crc="4194748490" ref="phone>home"/>
     <file name="u2768-a.png" crc="4067977047" ref="phone>home"/>
@@ -197,8 +188,8 @@
     <file name="u2771.png" crc="3889677552" ref="phone>home"/>
     <file name="u2771-r.png" crc="464944740" ref="phone>home"/>
     <file name="u2771-a.png" crc="246725693" ref="phone>home"/>
-    <file name="topnav2.jpg" crc="397043664" ref="tablet>home:tablet>messages:tablet>manage-accounts:tablet>pro:index:home:messages:manage-accounts:pro"/>
-    <file name="leftnav2.jpg" crc="305429027" ref="tablet>home:tablet>messages:tablet>manage-accounts:tablet>pro:index:home:messages:manage-accounts:pro"/>
+    <file name="topnav2.jpg" crc="397043664" ref="tablet>messages:index:home:messages"/>
+    <file name="leftnav2.jpg" crc="305429027" ref="tablet>messages:index:home:messages"/>
     <file name="u1120-grad.png" crc="235899655" ref="home"/>
     <file name="u2879-7.png" crc="4139084708" ref="tablet>home"/>
     <file name="u2864-7.png" crc="33317325" ref="tablet>home"/>
@@ -220,10 +211,20 @@
     <file name="u2845-a.png" crc="74572657" ref="tablet>home"/>
     <file name="u2825-4.png" crc="31478570" ref="tablet>home"/>
     <file name="u2818-4.png" crc="296861781" ref="tablet>home"/>
+    <file name="u2858-grad.png" crc="4243324940" ref="tablet>home"/>
+    <file name="u1994-8.png" crc="209907924" ref="phone>index"/>
+    <file name="u1996-7.png" crc="32384370" ref="phone>index"/>
+    <file name="u1998-16.png" crc="156648860" ref="phone>index"/>
+    <file name="u1728-16.png" crc="76254313" ref="tablet>index"/>
+    <file name="u1724-8.png" crc="3883113587" ref="tablet>index"/>
+    <file name="u1726-8.png" crc="515610297" ref="tablet>index"/>
+    <file name="u1602-16.png" crc="76254313" ref="index"/>
+    <file name="u1596-8.png" crc="4058660220" ref="index"/>
+    <file name="u1604-8.png" crc="534095833" ref="index"/>
   </folder>
-  <file name="index.html" crc="3945177596" mt="1401447693060" redirect="true"/>
+  <file name="index.html" crc="4225288618" mt="1401535937518" redirect="true"/>
   <file name="home.html" crc="3923050090" mt="1401447693062" redirect="true"/>
   <file name="messages.html" crc="3820274855" mt="1401447693068" redirect="true"/>
-  <file name="manage-accounts.html" crc="4163328434" mt="1401447693064" redirect="true"/>
-  <file name="pro.html" crc="4259891660" mt="1401447693066" redirect="true"/>
+  <file name="manage-accounts.html" crc="4163328434" mt="1401470235134" redirect="true"/>
+  <file name="pro.html" crc="4259891660" mt="1401470242853" redirect="true"/>
 </manifest>

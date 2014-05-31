@@ -8,8 +8,6 @@
 	background: linear-gradient(to right,#F7931E ,#F15A24 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=1);
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=1)";
-	border-width: 1px;
-	border-style: solid;
 	border-color: #000000;
 	position: relative;
 	background-size: cover !important;

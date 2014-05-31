@@ -25,7 +25,15 @@
 
 .html
 {
-	background-color: #FFFFFF;
+	background-color: #F7931E;
+	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
+	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -ms-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -o-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: linear-gradient(to right,#F7931E ,#F15A24 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=1)";
 }
 
 #page
@@ -69,7 +77,7 @@
 
 #accordionu2589wrapper
 {
-	min-height: 337px;
+	min-height: 336px;
 	z-index: 7;
 	top: -1px;
 	margin-bottom: -1px;
@@ -90,7 +98,7 @@
 #u2605
 {
 	z-index: 10;
-	height: 57px;
+	height: 56px;
 	width: 379px;
 }
 
