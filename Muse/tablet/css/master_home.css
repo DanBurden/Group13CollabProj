@@ -98,12 +98,9 @@
 	position: relative;
 }
 
-#u2863
+.SSSlideLoading /* slideshowFreeStyle */
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	position: relative;
+	background: url("../../images/loading.gif") no-repeat center center;
 }
 
 #u2858
@@ -151,10 +148,38 @@
 	position: relative;
 }
 
-#u2879-7,#u2864-7,#u2859-7,#u2869-7,#u2874-7
+#u2879-7,#u2859-7,#u2869-7,#u2874-7
 {
 	display: block;
 	vertical-align: top;
+	position: relative;
+}
+
+#u3728,#u3802,#u3765,#u3689
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u3729,#u3803,#u3766,#u3690
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u3826,#u3824,#u3814,#u3699
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2923,#u2829,#u2819,#pamphletu2835,#slideshowu3701,#slideshowu3775,#slideshowu3738,#slideshowu3662,#u2836
+{
 	position: relative;
 }
 
@@ -189,7 +214,7 @@
 	background: url("../../images/u2838-a.png") no-repeat 0px 0px;
 }
 
-#u2843,#u2839
+#u2839
 {
 	position: absolute;
 	border-style: none;
@@ -258,7 +283,7 @@
 	background-color: transparent;
 }
 
-#u2843.PamphletThumbSelected,#u2837.PamphletThumbSelected,#u2841.PamphletThumbSelected,#u2844.PamphletThumbSelected
+#u2837.PamphletThumbSelected,#u2841.PamphletThumbSelected,#u2844.PamphletThumbSelected
 {
 	border-style: none;
 	border-color: transparent;
@@ -282,19 +307,8 @@
 	background: url("../../images/u2845-a.png") no-repeat 0px 0px;
 }
 
-.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton,.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* slideshowFreeStyle */
 {
 	cursor: pointer;
-}
-
-#u2829,#u2819,#pamphletu2835,#u2836,#u2825-4,#u2818-4
-{
-	position: relative;
-}
-
-#u2825-4_img,#u2818-4_img
-{
-	display: block;
-	vertical-align: top;
 }
 

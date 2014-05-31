@@ -13,7 +13,7 @@
 	border-style: solid;
 	border-color: #000000;
 	position: fixed;
-	background: #FFFFFF url("../images/topnav2.jpg") no-repeat center center;
+	background: #FFFFFF url("../images/topnav.jpg") no-repeat center center;
 	background-size: cover !important;
 }
 
@@ -23,7 +23,7 @@
 	border-style: solid;
 	border-color: #000000;
 	position: fixed;
-	background: #FFFFFF url("../images/leftnav2.jpg") no-repeat left center;
+	background: #FFFFFF url("../images/leftnav.jpg") no-repeat left center;
 	background-size: cover !important;
 }
 
@@ -79,17 +79,17 @@
 	position: relative;
 }
 
-#u2367,#u2348,#u2361,#u2357,#u2337,#u2363,#u2355,#u2335
+#u2367,#u2348,#u2361,#u2903,#u2357,#u2337,#u2363,#u2355,#u2335
 {
 	position: fixed;
 }
 
-#pamphletu2339,#u2342,#u2378,#u2380,#u2382,#u2387,#u2354,#u2359-4,#u2366-4
+#pamphletu2339,#u2342,#u2378,#u2380,#u2382,#u2387,#u2354,#u2359-4
 {
 	position: relative;
 }
 
-#u2359-4_img,#u2366-4_img
+#u2359-4_img
 {
 	display: block;
 	vertical-align: top;

@@ -53,7 +53,7 @@
 
 #pamphletu2451
 {
-	z-index: 27;
+	z-index: 23;
 	width: 0.01px;
 	height: 78px;
 	padding-bottom: 73px;
@@ -62,7 +62,7 @@
 
 #u2458popup
 {
-	z-index: 28;
+	z-index: 24;
 }
 
 #u2458
@@ -73,7 +73,7 @@
 
 #u2459
 {
-	z-index: 29;
+	z-index: 25;
 	width: 333px;
 	height: 85px;
 	margin-right: -10000px;
@@ -81,7 +81,7 @@
 
 #u2460
 {
-	z-index: 30;
+	z-index: 26;
 	width: 257px;
 	top: 105px;
 	left: 50%;
@@ -90,7 +90,7 @@
 
 #u2454
 {
-	z-index: 32;
+	z-index: 28;
 	width: 100px;
 	margin-right: -10000px;
 	left: 106px;
@@ -137,9 +137,17 @@
 	margin-left: 329px;
 }
 
+#u2918
+{
+	z-index: 30;
+	width: 465px;
+	top: 71px;
+	left: 270px;
+}
+
 #u2469
 {
-	z-index: 25;
+	z-index: 21;
 	width: 100px;
 	top: 173px;
 	left: 72px;
@@ -194,27 +202,11 @@
 	left: 87px;
 }
 
-#pu2471-4
-{
-	width: 0.01px;
-	margin-left: 372px;
-	margin-top: 162px;
-	position: relative;
-}
-
 #u2471-4
 {
 	z-index: 17;
-	width: 127px;
-	margin-right: -10000px;
-}
-
-#u2478-4
-{
-	z-index: 21;
-	width: 135px;
-	margin-right: -10000px;
-	left: 168px;
+	margin-left: 372px;
+	margin-top: 162px;
 }
 
 body

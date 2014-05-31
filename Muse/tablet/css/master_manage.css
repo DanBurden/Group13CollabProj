@@ -4,7 +4,7 @@
 	border-style: solid;
 	border-color: #000000;
 	position: relative;
-	background: #FFFFFF url("../../images/topnav.jpg") no-repeat center center;
+	background: #FFFFFF url("../../images/topnav2.jpg") no-repeat center center;
 	background-size: cover !important;
 }
 
@@ -14,8 +14,13 @@
 	border-style: solid;
 	border-color: #000000;
 	position: relative;
-	background: #FFFFFF url("../../images/leftnav.jpg") no-repeat left center;
+	background: #FFFFFF url("../../images/leftnav2.jpg") no-repeat left center;
 	background-size: cover !important;
+}
+
+#u2928,#u2289,#u2291
+{
+	position: relative;
 }
 
 #u2285
@@ -76,16 +81,5 @@
 {
 	background: transparent url("../../images/progreenactive.png") no-repeat center center;
 	background-size: contain !important;
-}
-
-#u2289,#u2291,#u2293-4,#u2284-4
-{
-	position: relative;
-}
-
-#u2293-4_img,#u2284-4_img
-{
-	display: block;
-	vertical-align: top;
 }
 

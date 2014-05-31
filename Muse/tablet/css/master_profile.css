@@ -10,7 +10,9 @@
 
 #u1678
 {
-	border-color: #93278F;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
 	position: relative;
 	background: #FFFFFF url("../../images/leftnav.jpg") no-repeat center center;
 	background-size: cover !important;
@@ -80,6 +82,11 @@
 {
 	background: transparent url("../../images/homeactive324x320.png") no-repeat center center;
 	background-size: contain !important;
+}
+
+#u2954,#u1690,#u1682,#u1696,#pamphletu1705,#u1706
+{
+	position: relative;
 }
 
 #u1709
@@ -324,16 +331,5 @@
 .PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
 {
 	cursor: pointer;
-}
-
-#u1690,#u1682,#u1696,#pamphletu1705,#u1706,#u1679-4,#u1684-4
-{
-	position: relative;
-}
-
-#u1679-4_img,#u1684-4_img
-{
-	display: block;
-	vertical-align: top;
 }
 

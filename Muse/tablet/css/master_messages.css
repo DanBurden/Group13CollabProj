@@ -4,7 +4,7 @@
 	border-style: solid;
 	border-color: #000000;
 	position: relative;
-	background: #FFFFFF url("../../images/topnav2.jpg") no-repeat center center;
+	background: #FFFFFF url("../../images/topnav.jpg") no-repeat center center;
 	background-size: cover !important;
 }
 
@@ -14,7 +14,7 @@
 	border-style: solid;
 	border-color: #000000;
 	position: relative;
-	background: #FFFFFF url("../../images/leftnav2.jpg") no-repeat left center;
+	background: #FFFFFF url("../../images/leftnav.jpg") no-repeat left center;
 	background-size: cover !important;
 }
 
@@ -76,6 +76,11 @@
 	overflow: hidden;
 }
 
+#u2944,#u1848,#u1840,#u1854,#u2253,#u2255,#u2257,#u2262
+{
+	position: relative;
+}
+
 #u2259-4,#u2260-4,#u2261-4,#u2264-4
 {
 	display: block;
@@ -90,14 +95,9 @@
 	background-size: contain !important;
 }
 
-#u1848,#u1840,#u1854,#u2253,#u2255,#u2257,#u2262,#u1837-4,#u1842-4
+#u2270.MuseLinkActive
 {
-	position: relative;
-}
-
-#u1837-4_img,#u1842-4_img
-{
-	display: block;
-	vertical-align: top;
+	background: transparent url("../../images/homeactive405x400.png") no-repeat center center;
+	background-size: contain !important;
 }
 

@@ -40,34 +40,41 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 570px;
+	min-height: 569.9999999999991px;
+	padding-bottom: 0px;
 }
 
-#pu2548
+#page_position_content
 {
-	width: 0.01px;
-	padding-bottom: 0px;
-	position: relative;
-	margin-right: -10000px;
-	left: -1px;
+	margin-bottom: 434px;
 }
 
 #u2548
 {
 	z-index: 23;
 	width: 380px;
+	left: -1px;
 }
 
 #u2543
 {
-	z-index: 32;
+	z-index: 24;
 	width: 109px;
 	margin-right: -10000px;
 }
 
+#u2974
+{
+	z-index: 28;
+	width: 148px;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 116px;
+}
+
 #u2546
 {
-	z-index: 34;
+	z-index: 26;
 	width: 50px;
 	margin-right: -10000px;
 	margin-top: 16px;
@@ -78,7 +85,6 @@
 {
 	min-height: 336px;
 	z-index: 2;
-	margin-left: 1px;
 }
 
 #accordionu2549
@@ -161,27 +167,8 @@
 	margin-top: 1px;
 }
 
-#u2545-4
-{
-	z-index: 28;
-	width: 136px;
-	margin-right: -10000px;
-	margin-top: 527px;
-	left: 64px;
-}
-
-#u2542-4
-{
-	z-index: 24;
-	width: 127px;
-	margin-right: -10000px;
-	margin-top: 521px;
-	left: 220px;
-}
-
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -521px;
 }
 

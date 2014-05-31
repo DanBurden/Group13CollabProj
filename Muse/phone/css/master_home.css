@@ -88,6 +88,19 @@
 	position: relative;
 }
 
+#u3865,#u3869,#u3867,#u3871
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1962,#u2996,#u1965,#accordionu1933,#u1947,#u1952,#u1950,#u1956,#u1954,#u1958,#pamphletu2763,#u2764
+{
+	position: relative;
+}
+
 #u2767
 {
 	position: absolute;
@@ -215,16 +228,5 @@
 .AccordionPanelTab,.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* accordion */
 {
 	cursor: pointer;
-}
-
-#u1962,#u1965,#accordionu1933,#u1947,#u1952,#u1950,#u1956,#u1954,#u1958,#pamphletu2763,#u2764,#u1961-4,#u1967-4
-{
-	position: relative;
-}
-
-#u1961-4_img,#u1967-4_img
-{
-	display: block;
-	vertical-align: top;
 }
 

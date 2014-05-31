@@ -72,19 +72,13 @@
 	position: relative;
 }
 
-.AccordionPanelTab /* accordion */
-{
-	cursor: pointer;
-}
-
-#u2543,#u2546,#accordionu2549wrapper,#u2564,#u2574,#u2570,#u2576,#u2568,#u2572,#u2545-4,#u2542-4
+#u2543,#u2974,#u2546,#accordionu2549wrapper,#u2564,#u2574,#u2570,#u2576,#u2568,#u2572
 {
 	position: relative;
 }
 
-#u2545-4_img,#u2542-4_img
+.AccordionPanelTab /* accordion */
 {
-	display: block;
-	vertical-align: top;
+	cursor: pointer;
 }
 

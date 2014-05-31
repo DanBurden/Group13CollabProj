@@ -67,17 +67,17 @@
 	cursor: pointer;
 }
 
-#u2432,#u2413,#u2426,#u2422,#u2402,#u2428,#u2420,#u2400
+#u2432,#u2413,#u2426,#u2913,#u2422,#u2402,#u2428,#u2420,#u2400
 {
 	position: fixed;
 }
 
-#pamphletu2404,#u2407,#u2419,#u2424-4,#u2431-4
+#pamphletu2404,#u2407,#u2419,#u2424-4
 {
 	position: relative;
 }
 
-#u2424-4_img,#u2431-4_img
+#u2424-4_img
 {
 	display: block;
 	vertical-align: top;
