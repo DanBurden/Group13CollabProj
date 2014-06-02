@@ -7,24 +7,34 @@
 	border-radius: 10px;
 }
 
-#u2477
-{
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	position: fixed;
-	background: #FFFFFF url("../images/topnav.jpg") no-repeat center center;
-	background-size: cover !important;
-}
-
 #u2472
 {
-	border-width: 1px;
-	border-style: solid;
+	background: -webkit-gradient(linear, center top, center bottom, from(#F7931E),color-stop(100%, #F15A24));
+	background: -webkit-linear-gradient(top,#F7931E ,#F15A24 100%);
+	background: -moz-linear-gradient(top,#F7931E ,#F15A24 100%);
+	background: -ms-linear-gradient(top,#F7931E ,#F15A24 100%);
+	background: -o-linear-gradient(top,#F7931E ,#F15A24 100%);
+	background: linear-gradient(to bottom,#F7931E ,#F15A24 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=0)";
 	border-color: #000000;
 	position: fixed;
-	background: #FFFFFF url("../images/leftnav.jpg") no-repeat left center;
-	background-size: cover !important;
+}
+
+#u2477
+{
+	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
+	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -ms-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -o-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: linear-gradient(to right,#F7931E ,#F15A24 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=1)";
+	border-style: none;
+	border-color: transparent;
+	position: fixed;
+	background-size: 100% auto !important;
 }
 
 #u2458
@@ -44,6 +54,11 @@
 	position: relative;
 }
 
+#u2460
+{
+	position: fixed;
+}
+
 #u2455
 {
 	position: absolute;
@@ -56,28 +71,211 @@
 	border-radius: 10px;
 }
 
-#u2455:hover
+#u2473
+{
+	vertical-align: top;
+	background: url("../images/u2473.png") no-repeat 9px 9px;
+	position: fixed;
+}
+
+#u2473.MuseLinkActive
+{
+	background: url("../images/u2473-a.png") no-repeat 0px 0px;
+}
+
+#u2479,#u2918
+{
+	display: block;
+	vertical-align: top;
+	position: fixed;
+}
+
+#u2469
+{
+	vertical-align: top;
+	background: url("../images/u2469.png") no-repeat 9px 9px;
+	position: fixed;
+}
+
+#u2469.MuseLinkActive
+{
+	background: url("../images/u2469-a.png") no-repeat 0px 0px;
+}
+
+#u2449
+{
+	vertical-align: top;
+	background: url("../images/u2449.png") no-repeat 9px 9px;
+	position: fixed;
+}
+
+#u2449.MuseLinkActive
+{
+	background: url("../images/u2449-a.png") no-repeat 0px 0px;
+}
+
+#u2475
+{
+	vertical-align: top;
+	background: url("../images/u2475.png") no-repeat 9px 9px;
+	position: fixed;
+}
+
+#u2475.MuseLinkActive
+{
+	background: url("../images/u2475-a.png") no-repeat 0px 0px;
+}
+
+#u2467
+{
+	vertical-align: top;
+	background: url("../images/u2467.png") no-repeat 9px 9px;
+	position: fixed;
+}
+
+#u2467.MuseLinkActive
+{
+	background: url("../images/u2467-a.png") no-repeat 0px 0px;
+}
+
+#tab-panelu3989
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u3991
+{
+	background: #F7931E url("../images/u3991-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#F15A24),color-stop(100%, #F7931E));
+	background: -webkit-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: -moz-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: -ms-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: -o-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: linear-gradient(to bottom,#F15A24 ,#F7931E 100%);
+	border-style: solid;
+	border-color: #999999;
+	position: relative;
+	border-width: 1px 0px 1px 1px;
+}
+
+#u3991:hover
+{
+	border-style: solid;
+	border-color: #000000;
+	border-width: 1px 0px 1px 1px;
+}
+
+#u3993
+{
+	vertical-align: top;
+	background: url("../images/u3993.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u3991.TabbedPanelsTabSelected #u3993
+{
+	background: url("../images/u3993-a.png") no-repeat 0px 0px;
+}
+
+#u3995
+{
+	background: #F7931E url("../images/u3991-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#F15A24),color-stop(100%, #F7931E));
+	background: -webkit-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: -moz-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: -ms-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: -o-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: linear-gradient(to bottom,#F15A24 ,#F7931E 100%);
+	border-style: solid;
+	border-color: #999999;
+	position: relative;
+	border-width: 1px 0px 1px 1px;
+}
+
+#u3995:hover
+{
+	border-style: solid;
+	border-color: #000000;
+	border-width: 1px 0px 1px 1px;
+}
+
+#u2455:hover,#u3991.TabbedPanelsTabSelected,#u3995.TabbedPanelsTabSelected
 {
 	border-style: none;
 	border-color: transparent;
 }
 
-.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+#u3998
+{
+	vertical-align: top;
+	background: url("../images/u3998.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u3995.TabbedPanelsTabSelected #u3998
+{
+	background: url("../images/u3998-a.png") no-repeat 0px 0px;
+}
+
+#u4008
+{
+	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
+	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -ms-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -o-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: linear-gradient(to right,#F7931E ,#F15A24 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=1)";
+	border-style: solid;
+	border-color: #999999;
+	position: relative;
+	border-width: 0px 1px 1px;
+}
+
+#u4004
+{
+	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
+	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -ms-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -o-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: linear-gradient(to right,#F7931E ,#F15A24 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=1)";
+	border-style: solid;
+	border-color: #999999;
+	position: relative;
+	border-width: 0px 1px 1px;
+}
+
+#u4010_clip,#u4006_clip
+{
+	overflow: hidden;
+}
+
+#u4009-8,#u4005-10
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton,.TabbedPanelsTab /* pamphlet2 */
 {
 	cursor: pointer;
 }
 
-#u2479,#u2460,#u2473,#u2918,#u2469,#u2449,#u2475,#u2467,#u2447
-{
-	position: fixed;
-}
-
-#pamphletu2451,#u2454,#u2466,#u2471-4
+#pamphletu2451,#u2454,#u2466,#u3990,#u4003,#u4010,#u4006,#u2471-4
 {
 	position: relative;
 }
 
-#u2471-4_img
+#u2460_img,#u2471-4_img
 {
 	display: block;
 	vertical-align: top;

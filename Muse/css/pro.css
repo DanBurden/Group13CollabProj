@@ -1,217 +1,28 @@
 .html
 {
-	background-color: #998675;
+	background-color: #7F7F7F;
 }
 
 #page
 {
 	z-index: 1;
-	width: 960px;
-	min-height: 799px;
+	width: 0px;
+	min-height: 0px;
 	background-image: none;
 	border-width: 1px;
 	border-style: solid;
-	border-color: #FFFFFF;
-	background-color: transparent;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-right: 1366px;
+	padding-bottom: 500px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: -1px;
-}
-
-#page_position_content
-{
-	margin-top: 22px;
-	margin-bottom: -58px;
-}
-
-#u2430
-{
-	z-index: 2;
-	width: 1159px;
-	height: 159px;
-	top: 0px;
-	left: 50%;
-	margin-left: -50%;
-}
-
-#u2425
-{
-	z-index: 3;
-	width: 242px;
-	height: 1510px;
-	top: 0px;
-	left: 0px;
-}
-
-#u2432
-{
-	z-index: 4;
-	width: 250px;
-	top: 0px;
-	left: 0px;
-}
-
-#pamphletu2404
-{
-	z-index: 23;
-	width: 0.01px;
-	height: 78px;
-	padding-bottom: 73px;
-	margin-left: 694px;
-}
-
-#u2411popup
-{
-	z-index: 24;
-}
-
-#u2411
-{
-	width: 333px;
-	top: 66px;
-}
-
-#u2412
-{
-	z-index: 25;
-	width: 333px;
-	height: 85px;
-	margin-right: -10000px;
-}
-
-#u2413
-{
-	z-index: 26;
-	width: 257px;
-	top: 105px;
-	left: 50%;
-	margin-left: 243px;
-}
-
-#u2407
-{
-	z-index: 28;
-	width: 100px;
-	margin-right: -10000px;
-	left: 106px;
-}
-
-#u2408
-{
-	width: 100px;
-	height: 78px;
-}
-
-.ie #u2408
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
-#u2408:hover
-{
-	margin: 0px;
-}
-
-.ie #u2408:hover
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
-#u2408.PamphletThumbSelected
-{
-	margin: 0px;
-}
-
-#u2426
-{
-	z-index: 15;
-	width: 100px;
-	top: 22px;
-	left: 50%;
-	margin-left: 329px;
-}
-
-#u2913
-{
-	z-index: 30;
-	width: 465px;
-	top: 71px;
-	left: 270px;
-}
-
-#u2422
-{
-	z-index: 21;
-	width: 100px;
-	top: 173px;
-	left: 72px;
-}
-
-#u2402
-{
-	z-index: 6;
-	width: 114px;
-	top: 293px;
-	left: 65px;
-}
-
-#u2428
-{
-	z-index: 8;
-	width: 147px;
-	top: 424px;
-	left: 49px;
-}
-
-#u2420
-{
-	z-index: 11;
-	width: 135px;
-	top: 552px;
-	left: 55px;
-}
-
-#u2419
-{
-	z-index: 10;
-	width: 265px;
-	height: 58px;
-	left: -107px;
-	margin-top: 421px;
-}
-
-.ie #u2408.PamphletThumbSelected,.ie #u2419
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
-#u2400
-{
-	z-index: 13;
-	width: 70px;
-	top: 728px;
-	left: 87px;
-}
-
-#u2424-4
-{
-	z-index: 17;
-	margin-left: 372px;
-	margin-top: 162px;
 }
 
 body
 {
-	padding-bottom: 57px;
+	padding-top: 35px;
+	padding-bottom: 36px;
 }
 
 #page .verticalspacer

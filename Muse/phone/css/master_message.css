@@ -65,20 +65,31 @@
 	position: relative;
 }
 
-#u2567-3
+#u2574_img,#u2570_img,#u2576_img,#u2568_img
 {
 	display: block;
 	vertical-align: top;
-	position: relative;
-}
-
-#u2543,#u2974,#u2546,#accordionu2549wrapper,#u2564,#u2574,#u2570,#u2576,#u2568,#u2572
-{
-	position: relative;
 }
 
 .AccordionPanelTab /* accordion */
 {
 	cursor: pointer;
+}
+
+#u4468_clip,#u4466_clip,#u4482_clip,#u4484_clip,#u4486_clip,#u4498_clip,#u4500_clip,#u4502_clip,#u4514_clip,#u4526_clip,#u4534_clip,#u4536_clip,#u4538_clip
+{
+	overflow: hidden;
+}
+
+#u2546,#u2564,#u2574,#u2570,#u2576,#u2568,#u4468,#u4472,#u4466,#u4475,#u4482,#u4484,#u4486,#u4494,#u4498,#u4500,#u4502,#u4510,#u4514,#u4518,#u4522,#u4526,#u4530,#u4534,#u4536,#u4538,#u4546
+{
+	position: relative;
+}
+
+#u2543,#u2974,#u2567-3,#u4471-4,#u4474-4,#u4480-5,#u4550-4,#u4470-5,#u4478-4,#u4479-4,#u4481-7,#u4488-4,#u4491-5,#u4489-4,#u4490-4,#u4492-4,#u4493-4,#u4496-4,#u4497-6,#u4504-4,#u4505-4,#u4507-5,#u4508-4,#u4506-4,#u4509-4,#u4512-4,#u4513-6,#u4516-4,#u4517-4,#u4520-4,#u4521-7,#u4524-4,#u4525-6,#u4528-4,#u4529-4,#u4532-4,#u4533-4,#u4540-4,#u4543-5,#u4541-4,#u4544-4,#u4542-4,#u4545-4,#u4548-4,#u4549-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
 }
 

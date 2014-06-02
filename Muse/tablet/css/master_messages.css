@@ -1,103 +1,149 @@
+#u4358.PamphletThumbSelected
+{
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
 #u1845
 {
-	border-width: 1px;
-	border-style: solid;
+	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
+	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -ms-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -o-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: linear-gradient(to right,#F7931E ,#F15A24 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=1)";
 	border-color: #000000;
 	position: relative;
-	background: #FFFFFF url("../../images/topnav.jpg") no-repeat center center;
 	background-size: cover !important;
 }
 
 #u1836
 {
-	border-width: 1px;
-	border-style: solid;
+	background: -webkit-gradient(linear, center top, center bottom, from(#F7931E),color-stop(100%, #F15A24));
+	background: -webkit-linear-gradient(top,#F7931E ,#F15A24 100%);
+	background: -moz-linear-gradient(top,#F7931E ,#F15A24 100%);
+	background: -ms-linear-gradient(top,#F7931E ,#F15A24 100%);
+	background: -o-linear-gradient(top,#F7931E ,#F15A24 100%);
+	background: linear-gradient(to bottom,#F7931E ,#F15A24 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=0)";
 	border-color: #000000;
-	position: relative;
-	background: #FFFFFF url("../../images/leftnav.jpg") no-repeat left center;
-	background-size: cover !important;
-}
-
-#u2271
-{
-	position: relative;
-	background: transparent url("../../images/profileicon.png") no-repeat center center;
-	background-size: contain !important;
-}
-
-#u2271.MuseLinkActive
-{
-	background: transparent url("../../images/profileactive320x321.png") no-repeat center center;
-	background-size: contain !important;
-}
-
-#u2272
-{
-	position: relative;
-	background: transparent url("../../images/messageactive417x320.png") no-repeat center center;
-	background-size: contain !important;
-}
-
-#u2272.MuseLinkActive
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: contain !important;
-}
-
-#u2273
-{
-	position: relative;
-	background: transparent url("../../images/manageaccountsicon.png") no-repeat center center;
-	background-size: contain !important;
-}
-
-#u2273.MuseLinkActive
-{
-	background: transparent url("../../images/manageaccountsactive321x320.png") no-repeat center center;
-	background-size: contain !important;
-}
-
-#u2274
-{
-	position: relative;
-	background: transparent url("../../images/progreenicon.png") no-repeat center center;
-	background-size: contain !important;
-}
-
-#u2274.MuseLinkActive
-{
-	background: transparent url("../../images/progreenactive.png") no-repeat center center;
-	background-size: contain !important;
-}
-
-#u2253_clip,#u2257_clip
-{
-	overflow: hidden;
-}
-
-#u2944,#u1848,#u1840,#u1854,#u2253,#u2255,#u2257,#u2262
-{
-	position: relative;
-}
-
-#u2259-4,#u2260-4,#u2261-4,#u2264-4
-{
-	display: block;
-	vertical-align: top;
 	position: relative;
 }
 
 #u2270
 {
+	vertical-align: top;
+	background: url("../../images/homeicon-u2270.png") no-repeat 0px 0px;
 	position: relative;
-	background: transparent url("../../images/homeicon.png") no-repeat center center;
-	background-size: contain !important;
 }
 
 #u2270.MuseLinkActive
 {
-	background: transparent url("../../images/homeactive405x400.png") no-repeat center center;
-	background-size: contain !important;
+	background: url("../../images/homeactive-u2270-a.png") no-repeat 0px 0px;
+}
+
+#u2271
+{
+	vertical-align: top;
+	background: url("../../images/profileicon-u2271.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u2271.MuseLinkActive
+{
+	background: url("../../images/profileactive-u2271-a.png") no-repeat 0px 0px;
+}
+
+#u2272
+{
+	vertical-align: top;
+	background: url("../../images/messageactive-u2272.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u2272.MuseLinkActive
+{
+	background: url("../../images/messageactive-u2272-a.png") no-repeat 0px 0px;
+}
+
+#u2273
+{
+	vertical-align: top;
+	background: url("../../images/manageaccountsicon-u2273.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u2273.MuseLinkActive
+{
+	background: url("../../images/manageaccountsactive-u2273-a.png") no-repeat 0px 0px;
+}
+
+#u4359
+{
+	position: absolute;
+}
+
+#u4360
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 15px 15px 0px 15px ;
+	-webkit-border-radius: 15px 15px 0px 15px ;
+	-khtml-border-radius: 15px 15px 0px 15px ;
+	border-radius: 15px 15px 0px 15px ;
+	position: relative;
+}
+
+#u1848_img,#u4361_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u4358
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#u4358:hover
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u4246_clip,#u4248_clip,#u4262_clip,#u4264_clip,#u4266_clip,#u4278_clip,#u4280_clip,#u4282_clip,#u4294_clip,#u4306_clip,#u4314_clip,#u4316_clip,#u4318_clip
+{
+	overflow: hidden;
+}
+
+#u1848,#u1854,#u4246,#u4248,#u4252,#u4255,#u4257-3,#u4262,#u4264,#u4266,#u4274,#pamphletu4354,#u4361,#u4357,#u4278,#u4280,#u4282,#u4290,#u4294,#u4298,#u4302,#u4306,#u4310,#u4314,#u4316,#u4318,#u4326
+{
+	position: relative;
+}
+
+#u2944,#u1840,#u4250-5,#u4251-4,#u4254-4,#u4258-4,#u4259-4,#u4260-5,#u4261-7,#u4268-4,#u4269-4,#u4270-4,#u4271-5,#u4272-4,#u4273-4,#u4276-4,#u4277-6,#u4330-4,#u4284-4,#u4285-4,#u4287-5,#u4288-4,#u4286-4,#u4289-4,#u4292-4,#u4293-6,#u4296-4,#u4297-4,#u4300-4,#u4301-7,#u4304-4,#u4305-6,#u4308-4,#u4309-4,#u4312-4,#u4313-4,#u4320-4,#u4323-5,#u4321-4,#u4324-4,#u4322-4,#u4325-4,#u4328-4,#u4329-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
 }
 

@@ -32,7 +32,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 569.6216153308328px;
+	min-height: 570px;
 	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
 	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
 	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
@@ -43,26 +43,24 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=1)";
 	border-style: none;
 	border-color: transparent;
-	padding-bottom: 0px;
 }
 
 #u1964
 {
-	z-index: 23;
+	z-index: 21;
 	width: 380px;
 }
 
 #u1962
 {
-	z-index: 108;
-	width: 109px;
+	z-index: 98;
+	margin-bottom: -9px;
 	margin-right: -10000px;
 }
 
 #u2996
 {
-	z-index: 112;
-	width: 148px;
+	z-index: 102;
 	margin-right: -10000px;
 	margin-top: 10px;
 	left: 115px;
@@ -70,7 +68,7 @@
 
 #u1965
 {
-	z-index: 110;
+	z-index: 100;
 	width: 50px;
 	margin-right: -10000px;
 	margin-top: 16px;
@@ -102,6 +100,7 @@
 	width: 340px;
 	padding-left: 10px;
 	padding-right: 29px;
+	padding-bottom: 44.18749999999997px;
 }
 
 #pu1960-3
@@ -119,7 +118,8 @@
 #u1952
 {
 	z-index: 13;
-	width: 114px;
+	margin-bottom: -9px;
+	width: 123px;
 	margin-right: -10000px;
 	margin-top: 61px;
 	left: 129px;
@@ -127,8 +127,8 @@
 
 #u1950
 {
-	z-index: 21;
-	width: 100px;
+	z-index: 19;
+	width: 109px;
 	margin-right: -10000px;
 	margin-top: 9px;
 	left: 136px;
@@ -137,7 +137,6 @@
 #u1956
 {
 	z-index: 15;
-	width: 147px;
 	margin-left: 113px;
 	margin-top: 1px;
 }
@@ -145,31 +144,24 @@
 #u1954
 {
 	z-index: 17;
-	width: 265px;
 	margin-left: 54px;
-}
-
-#u1958
-{
-	z-index: 19;
-	width: 70px;
-	margin-left: 152px;
-	margin-top: 1px;
+	top: -9px;
+	margin-bottom: -9px;
 }
 
 #pamphletu2763
 {
-	z-index: 24;
+	z-index: 22;
 	width: 0.01px;
-	height: 202px;
-	padding-bottom: 482px;
-	margin-left: 20px;
-	margin-top: 10px;
+	height: 193px;
+	padding-bottom: 491px;
+	margin-left: 19px;
+	margin-top: 11px;
 }
 
 #u2785popup
 {
-	z-index: 25;
+	z-index: 23;
 }
 
 #u2785
@@ -180,7 +172,7 @@
 
 #u2791
 {
-	z-index: 26;
+	z-index: 24;
 	width: 339px;
 	height: 436px;
 	margin-right: -10000px;
@@ -188,7 +180,7 @@
 
 #u2792-7
 {
-	z-index: 27;
+	z-index: 25;
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: -1px;
@@ -196,7 +188,7 @@
 
 #u3865
 {
-	z-index: 37;
+	z-index: 35;
 	width: 320px;
 	min-height: 340px;
 	margin-right: -10000px;
@@ -204,26 +196,18 @@
 	left: 8px;
 }
 
-#u2786
+#u4464
 {
-	z-index: 38;
-	width: 537px;
-	height: 469px;
+	z-index: 36;
+	width: 139px;
+	min-height: 32px;
 	margin-right: -10000px;
-	margin-top: -83px;
-	left: 339px;
-}
-
-#u2787-7
-{
-	z-index: 39;
-	margin-right: -10000px;
-	left: 20px;
+	margin-top: 96px;
 }
 
 #u2796
 {
-	z-index: 49;
+	z-index: 37;
 	width: 340px;
 	height: 436px;
 	margin-right: -10000px;
@@ -231,7 +215,7 @@
 
 #u2797-7
 {
-	z-index: 50;
+	z-index: 38;
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: -1px;
@@ -239,7 +223,7 @@
 
 #u3869
 {
-	z-index: 60;
+	z-index: 48;
 	width: 320px;
 	min-height: 340px;
 	margin-right: -10000px;
@@ -247,18 +231,26 @@
 	left: 6px;
 }
 
+#u4460
+{
+	z-index: 49;
+	width: 139px;
+	min-height: 32px;
+	margin-right: -10000px;
+	margin-top: 96px;
+}
+
 #u2806
 {
-	z-index: 61;
+	z-index: 50;
 	width: 339px;
 	height: 436px;
-	margin-bottom: -1px;
 	margin-right: -10000px;
 }
 
 #u2807-7
 {
-	z-index: 62;
+	z-index: 51;
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: -1px;
@@ -266,7 +258,7 @@
 
 #u3867
 {
-	z-index: 72;
+	z-index: 61;
 	width: 320px;
 	min-height: 340px;
 	margin-right: -10000px;
@@ -274,18 +266,26 @@
 	left: 6px;
 }
 
+#u4462
+{
+	z-index: 62;
+	width: 139px;
+	min-height: 32px;
+	margin-right: -10000px;
+	margin-top: 96px;
+}
+
 #u2801
 {
-	z-index: 73;
+	z-index: 63;
 	width: 339px;
 	height: 436px;
-	margin-bottom: -1px;
 	margin-right: -10000px;
 }
 
 #u2802-7
 {
-	z-index: 74;
+	z-index: 64;
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: -1px;
@@ -293,7 +293,7 @@
 
 #u3871
 {
-	z-index: 84;
+	z-index: 74;
 	width: 320px;
 	min-height: 340px;
 	margin-right: -10000px;
@@ -301,20 +301,29 @@
 	left: 6px;
 }
 
+#u4458
+{
+	z-index: 75;
+	width: 139px;
+	min-height: 32px;
+	margin-right: -10000px;
+	margin-top: 96px;
+}
+
 #u2764
 {
-	z-index: 85;
-	width: 296px;
+	z-index: 76;
+	width: 231px;
 	margin-right: -10000px;
-	margin-top: 7px;
-	left: 20px;
+	margin-top: 3px;
+	left: 58px;
 }
 
 #u2767
 {
-	width: 306px;
-	top: -7px;
-	left: -10px;
+	width: 232px;
+	top: -3px;
+	left: -5px;
 }
 
 #u2767:hover
@@ -324,83 +333,42 @@
 
 #u2768
 {
-	z-index: 88;
-	height: 55px;
-	width: 296px;
+	z-index: 79;
+	height: 51px;
+	width: 231px;
+	margin-bottom: -6px;
 	margin-right: -10000px;
-	margin-top: 7px;
-	left: 10px;
-}
-
-#u2769
-{
-	width: 233px;
-	height: 53px;
-	top: 158px;
-	left: 20px;
-}
-
-.ie #u2769
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
-#u2767.PamphletThumbSelected,#u2769:hover
-{
-	margin: 0px;
-}
-
-.ie #u2769:hover
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
-#u2769.PamphletThumbSelected
-{
-	margin: 0px;
-}
-
-.ie #u2769.PamphletThumbSelected
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
+	margin-top: 3px;
+	left: 5px;
 }
 
 #u2765
 {
 	width: 232px;
-	top: 99px;
-	left: 20px;
+	top: 91px;
+	left: -5px;
 }
 
-#u2765:hover
+#u2767.PamphletThumbSelected,#u2765:hover
 {
 	margin: 0px;
 }
 
 #u2766
 {
-	z-index: 94;
-	height: 64px;
-	width: 222px;
+	z-index: 84;
+	height: 51px;
+	width: 68px;
+	margin-bottom: -3px;
 	margin-right: -10000px;
-	margin-top: 6px;
-	left: 10px;
+	left: 86px;
 }
 
 #u2772
 {
 	width: 232px;
-	top: 42px;
-	left: 20px;
+	top: 45px;
+	left: -5px;
 }
 
 #u2765.PamphletThumbSelected,#u2772:hover
@@ -410,19 +378,20 @@
 
 #u2773
 {
-	z-index: 99;
-	height: 48px;
-	width: 191px;
+	z-index: 89;
+	height: 45px;
+	width: 200px;
+	margin-bottom: -4px;
 	margin-right: -10000px;
-	margin-top: 10px;
+	margin-top: 5px;
 	left: 20px;
 }
 
 #u2770
 {
 	width: 232px;
-	top: 147px;
-	left: 33px;
+	top: 139px;
+	left: -5px;
 }
 
 #u2772.PamphletThumbSelected,#u2770:hover
@@ -437,12 +406,13 @@
 
 #u2771
 {
-	z-index: 105;
-	height: 36px;
-	width: 195px;
+	z-index: 95;
+	height: 45px;
+	width: 76px;
+	margin-bottom: -3px;
 	margin-right: -10000px;
-	margin-top: 12px;
-	left: 7px;
+	margin-top: 6px;
+	left: 82px;
 }
 
 #page .verticalspacer

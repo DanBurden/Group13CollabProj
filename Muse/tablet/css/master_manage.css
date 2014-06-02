@@ -1,85 +1,229 @@
+#u4417.PamphletThumbSelected
+{
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
 #u2294
 {
-	border-width: 1px;
-	border-style: solid;
 	border-color: #000000;
 	position: relative;
-	background: #FFFFFF url("../../images/topnav2.jpg") no-repeat center center;
+	background: #FFFFFF url("../../images/topnav.jpg") no-repeat center center;
 	background-size: cover !important;
 }
 
 #u2286
 {
-	border-width: 1px;
-	border-style: solid;
 	border-color: #000000;
 	position: relative;
-	background: #FFFFFF url("../../images/leftnav2.jpg") no-repeat left center;
+	background: #FFFFFF url("../../images/leftnav.jpg") no-repeat left center;
 	background-size: cover !important;
-}
-
-#u2928,#u2289,#u2291
-{
-	position: relative;
-}
-
-#u2285
-{
-	position: relative;
-	background: transparent url("../../images/homeicon.png") no-repeat center center;
-	background-size: contain !important;
 }
 
 #u2288
 {
+	vertical-align: top;
+	background: url("../../images/profileicon-u2288.png") no-repeat 0px 0px;
 	position: relative;
-	background: transparent url("../../images/profileicon.png") no-repeat center center;
-	background-size: contain !important;
 }
 
 #u2288.MuseLinkActive
 {
-	background: transparent url("../../images/profileactive320x321.png") no-repeat center center;
-	background-size: contain !important;
+	background: url("../../images/profileactive-u2288-a.png") no-repeat 0px 0px;
 }
 
 #u2287
 {
+	vertical-align: top;
+	background: url("../../images/messageicon-u2287.png") no-repeat 0px 0px;
 	position: relative;
-	background: transparent url("../../images/messageicon.png") no-repeat center center;
-	background-size: contain !important;
 }
 
 #u2287.MuseLinkActive
 {
-	background: transparent url("../../images/messageactive417x320.png") no-repeat center center;
-	background-size: contain !important;
+	background: url("../../images/messageactive-u2287-a.png") no-repeat 0px 0px;
 }
 
 #u2295
 {
+	vertical-align: top;
+	background: url("../../images/manageaccountsactive-u2295.png") no-repeat 0px 0px;
 	position: relative;
-	background: transparent url("../../images/manageaccountsactive321x320.png") no-repeat center center;
-	background-size: contain !important;
 }
 
 #u2295.MuseLinkActive
 {
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: contain !important;
+	background: url("../../images/manageaccountsactive-u2295-a.png") no-repeat 0px 0px;
 }
 
 #u2283
 {
+	vertical-align: top;
+	background: url("../../images/progreenicon-u2283.png") no-repeat 0px 0px;
 	position: relative;
-	background: transparent url("../../images/progreenicon.png") no-repeat center center;
-	background-size: contain !important;
 }
 
 #u2283.MuseLinkActive
 {
-	background: transparent url("../../images/progreenactive.png") no-repeat center center;
-	background-size: contain !important;
+	background: url("../../images/progreenactive-u2283-a.png") no-repeat 0px 0px;
+}
+
+#tab-panelu4067
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u4098
+{
+	background: #F7931E url("../../images/u4098-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#F15A24),color-stop(100%, #F7931E));
+	background: -webkit-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: -moz-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: -ms-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: -o-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: linear-gradient(to bottom,#F15A24 ,#F7931E 100%);
+	border-style: solid;
+	border-color: #999999;
+	position: relative;
+	border-width: 1px 0px 1px 1px;
+}
+
+#u4100
+{
+	vertical-align: top;
+	background: url("../../images/u4100.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u4098.TabbedPanelsTabSelected #u4100
+{
+	background: url("../../images/u4100-a.png") no-repeat 0px 0px;
+}
+
+#u4102
+{
+	background: #F7931E url("../../images/u4098-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#F15A24),color-stop(100%, #F7931E));
+	background: -webkit-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: -moz-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: -ms-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: -o-linear-gradient(top,#F15A24 ,#F7931E 100%);
+	background: linear-gradient(to bottom,#F15A24 ,#F7931E 100%);
+	border-style: solid;
+	border-color: #999999;
+	position: relative;
+	border-width: 1px 0px 1px 1px;
+}
+
+#u4105
+{
+	vertical-align: top;
+	background: url("../../images/u4105.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u4102.TabbedPanelsTabSelected #u4105
+{
+	background: url("../../images/u4105-a.png") no-repeat 0px 0px;
+}
+
+#u4093
+{
+	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
+	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -ms-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -o-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: linear-gradient(to right,#F7931E ,#F15A24 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=1)";
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+}
+
+#u4089
+{
+	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
+	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -ms-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -o-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: linear-gradient(to right,#F7931E ,#F15A24 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=1)";
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+}
+
+#u4094_clip,#u4090_clip
+{
+	overflow: hidden;
+}
+
+#u2285,#u4096-6,#u4092-6
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u4404
+{
+	position: absolute;
+}
+
+#u4405
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 15px 15px 0px 15px ;
+	-webkit-border-radius: 15px 15px 0px 15px ;
+	-khtml-border-radius: 15px 15px 0px 15px ;
+	border-radius: 15px 15px 0px 15px ;
+	position: relative;
+}
+
+#u2289_img,#u4406_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u2928,#u2289,#u2291,#u4097,#u4088,#u4094,#u4090,#pamphletu4403,#u4406,#u4416
+{
+	position: relative;
+}
+
+#u4417
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#u4098.TabbedPanelsTabSelected,#u4102.TabbedPanelsTabSelected,#u4417:hover
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+.TabbedPanelsTab,.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* tabset */
+{
+	cursor: pointer;
 }
 
