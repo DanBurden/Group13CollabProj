@@ -1,7 +1,7 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="tablet">
     <folder name="css">
-      <file name="home.css" crc="4029504616" ref="tablet>home"/>
+      <file name="home.css" crc="4198069236" ref="tablet>home"/>
       <file name="manage-accounts.css" crc="3880881212" ref="tablet>manage-accounts"/>
       <file name="index.css" crc="339769150" ref="tablet>index"/>
       <file name="pro.css" crc="4166315370" ref="tablet>pro"/>
@@ -12,7 +12,7 @@
       <file name="master_home.css" crc="243881640" ref="tablet>home"/>
     </folder>
     <file name="index.html" crc="3976525308" mt="1401714057497" redirect="true"/>
-    <file name="home.html" crc="3906628036" mt="1401712995265" redirect="true"/>
+    <file name="home.html" crc="4212914271" mt="1401718513322" redirect="true"/>
     <file name="messages.html" crc="354417615" mt="1401712126720" redirect="true"/>
     <file name="manage-accounts.html" crc="339324152" mt="1401714052078" redirect="true"/>
     <file name="pro.html" crc="122287271" mt="1401706068677" redirect="false"/>
@@ -20,7 +20,7 @@
   <folder name="phone">
     <folder name="css">
       <file name="messages.css" crc="4225643536" ref="phone>messages"/>
-      <file name="home.css" crc="4125791033" ref="phone>home"/>
+      <file name="home.css" crc="423864447" ref="phone>home"/>
       <file name="manage-accounts.css" crc="3782509985" ref="phone>manage-accounts"/>
       <file name="index.css" crc="263067570" ref="phone>index"/>
       <file name="pro.css" crc="152209928" ref="phone>pro"/>
@@ -30,14 +30,14 @@
       <file name="master_message.css" crc="73083875" ref="phone>messages"/>
     </folder>
     <file name="index.html" crc="202370628" mt="1401710679456" redirect="true"/>
-    <file name="home.html" crc="343518744" mt="1401713820207" redirect="true"/>
+    <file name="home.html" crc="275496942" mt="1401718654240" redirect="true"/>
     <file name="messages.html" crc="4073514275" mt="1401710208127" redirect="true"/>
     <file name="manage-accounts.html" crc="69199876" mt="1401710895260" redirect="true"/>
     <file name="pro.html" crc="116902010" mt="1401706074727" redirect="false"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="56319344"/>
-    <file name="home.css" crc="3798599046" ref="home"/>
+    <file name="home.css" crc="4287493262" ref="home"/>
     <file name="index.css" crc="3778016756" ref="index"/>
     <file name="manage-accounts.css" crc="203222657" ref="manage-accounts"/>
     <file name="pro.css" crc="26991919" ref="pro"/>
@@ -83,7 +83,7 @@
     <file name="u1920-4.png" crc="99015302" ref="phone>index"/>
     <file name="contentborder.png" crc="3922406855" ref="phone>messages"/>
     <file name="contentborder2.png" crc="446018069" ref="messages"/>
-    <file name="favicon.ico" crc="4136015632" ref="phone>index:phone>messages:phone>home:home:tablet>manage-accounts"/>
+    <file name="favicon.ico" crc="4136015632" ref="phone>index:phone>messages:phone>home:tablet>manage-accounts:tablet>home"/>
     <file name="u1948.png" crc="4153386557" ref="phone>home"/>
     <file name="u1948-r.png" crc="4153386557" ref="phone>home"/>
     <file name="u1948-m.png" crc="4153386557" ref="phone>home"/>
@@ -488,7 +488,7 @@
     <file name="contentborder2-u4241.png" crc="3850850625" ref="messages"/>
   </folder>
   <file name="index.html" crc="4054158173" mt="1401712126716" redirect="true"/>
-  <file name="home.html" crc="4275562346" mt="1401713890702" redirect="true"/>
+  <file name="home.html" crc="4105544413" mt="1401718570892" redirect="true"/>
   <file name="messages.html" crc="4130215486" mt="1401712126715" redirect="true"/>
   <file name="manage-accounts.html" crc="4016600572" mt="1401712126713" redirect="true"/>
   <file name="pro.html" crc="161864576" mt="1401705984436" redirect="false"/>
