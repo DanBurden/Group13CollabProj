@@ -9,6 +9,10 @@
 
 #u1687
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
 	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
 	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
 	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
@@ -82,18 +86,6 @@
 #u1694.MuseLinkActive
 {
 	background: url("../../images/manageaccountsactive-u1694-a.png") no-repeat 0px 0px;
-}
-
-#u1692
-{
-	vertical-align: top;
-	background: url("../../images/progreenicon-u1692.png") no-repeat 0px 0px;
-	position: relative;
-}
-
-#u1692.MuseLinkActive
-{
-	background: url("../../images/progreenactive-u1692-a.png") no-repeat 0px 0px;
 }
 
 #u1709
@@ -271,6 +263,10 @@
 
 #u1727
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
 	background: -webkit-gradient(linear, center top, center bottom, from(#F15A24),color-stop(100%, #FBB03B));
 	background: -webkit-linear-gradient(top,#F15A24 ,#FBB03B 100%);
 	background: -moz-linear-gradient(top,#F15A24 ,#FBB03B 100%);
@@ -287,6 +283,10 @@
 
 #u1723
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
 	background: -webkit-gradient(linear, left center, right center, from(#F15A24),color-stop(100%, #F7931E));
 	background: -webkit-linear-gradient(left,#F15A24 ,#F7931E 100%);
 	background: -moz-linear-gradient(left,#F15A24 ,#F7931E 100%);
@@ -303,6 +303,10 @@
 
 #u1725
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
 	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
 	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
 	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);

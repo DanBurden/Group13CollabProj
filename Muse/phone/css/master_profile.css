@@ -14,6 +14,44 @@
 	background-size: cover !important;
 }
 
+#u1906
+{
+	vertical-align: top;
+	background: url("../../images/u1906.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u1906:hover
+{
+	background: url("../../images/u1906-r.png") no-repeat 0px 0px;
+}
+
+#u1906:active
+{
+	background: url("../../images/u1906-m.png") no-repeat 0px 0px;
+}
+
+#u1906.AccordionPanelTabOpen
+{
+	background: url("../../images/u1906-a.png") no-repeat 0px 0px;
+}
+
+#u1907
+{
+	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
+	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -ms-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -o-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: linear-gradient(to right,#F7931E ,#F15A24 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=1)";
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background-size: 100% auto !important;
+}
+
 #u1988
 {
 	position: absolute;
@@ -249,57 +287,19 @@
 	position: relative;
 }
 
-#u1906
-{
-	vertical-align: top;
-	background: url("../../images/u1906.png") no-repeat 0px 0px;
-	position: relative;
-}
-
-#u1906:hover
-{
-	background: url("../../images/u1906-r.png") no-repeat 0px 0px;
-}
-
-#u1906:active
-{
-	background: url("../../images/u1906-m.png") no-repeat 0px 0px;
-}
-
-#u1906.AccordionPanelTabOpen
-{
-	background: url("../../images/u1906-a.png") no-repeat 0px 0px;
-}
-
-#u1907
-{
-	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
-	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
-	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
-	background: -ms-linear-gradient(left,#F7931E ,#F15A24 100%);
-	background: -o-linear-gradient(left,#F7931E ,#F15A24 100%);
-	background: linear-gradient(to right,#F7931E ,#F15A24 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=1);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=1)";
-	border-style: none;
-	border-color: transparent;
-	position: relative;
-	background-size: 100% auto !important;
-}
-
-#u1889,#u2991,#u1994-8,#u1996-7,#u1998-16,#u1916-3
+#u1889,#u2991,#u1916-3,#u1994-8,#u1996-7,#u1998-16
 {
 	display: block;
 	vertical-align: top;
 	position: relative;
 }
 
-.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton,.AccordionPanelTab /* pamphlet2 */
+.AccordionPanelTab,.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* accordion */
 {
 	cursor: pointer;
 }
 
-#u1887,#pamphletu1975,#u1983,#accordionu1891,#u1905,#u1914,#u1912,#u1908,#u1910,#u1919-4,#u1920-4
+#u1887,#accordionu1891,#u1905,#u1914,#u1912,#u1908,#u1910,#pamphletu1975,#u1983,#u1919-4,#u1920-4
 {
 	position: relative;
 }

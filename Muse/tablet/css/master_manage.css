@@ -9,6 +9,10 @@
 
 #u2294
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
 	border-color: #000000;
 	position: relative;
 	background: #FFFFFF url("../../images/topnav.jpg") no-repeat center center;
@@ -59,20 +63,12 @@
 	background: url("../../images/manageaccountsactive-u2295-a.png") no-repeat 0px 0px;
 }
 
-#u2283
-{
-	vertical-align: top;
-	background: url("../../images/progreenicon-u2283.png") no-repeat 0px 0px;
-	position: relative;
-}
-
-#u2283.MuseLinkActive
-{
-	background: url("../../images/progreenactive-u2283-a.png") no-repeat 0px 0px;
-}
-
 #tab-panelu4067
 {
+	-pie-box-shadow: none;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
@@ -169,7 +165,7 @@
 	overflow: hidden;
 }
 
-#u2285,#u4096-6,#u4092-6
+#u2285,#u4096-9,#u4092-8
 {
 	display: block;
 	vertical-align: top;

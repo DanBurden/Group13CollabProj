@@ -9,6 +9,10 @@
 
 #u2828
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
 	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
 	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
 	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
@@ -86,6 +90,10 @@
 
 #u2878
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
 	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
 	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
 	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
@@ -107,6 +115,10 @@
 
 #u2858
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
 	background: #F15A24 url("../../images/u2858-grad.png") repeat-y left top;
 	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
 	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
@@ -122,6 +134,10 @@
 
 #u2868
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
 	background: #F15A24 url("../../images/u2858-grad.png") repeat-y left top;
 	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
 	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
@@ -137,6 +153,10 @@
 
 #u2873
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
 	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
 	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
 	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
@@ -172,7 +192,7 @@
 	position: relative;
 }
 
-#u3826,#u4450,#u3824,#u4454,#u3814,#u4452,#u3699,#u4456
+#u3826,#u4450,#u4594,#u3824,#u4454,#u4602,#u3814,#u4452,#u4596,#u3699,#u4456,#u4600
 {
 	border-style: none;
 	border-color: transparent;

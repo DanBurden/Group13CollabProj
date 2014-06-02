@@ -23,6 +23,10 @@
 
 #u2477
 {
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
 	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
 	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
 	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
@@ -140,6 +144,10 @@
 
 #tab-panelu3989
 {
+	-pie-box-shadow: none;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
@@ -149,7 +157,7 @@
 
 #u3991
 {
-	background: #F7931E url("../images/u3991-grad.png") repeat-x left top;
+	background: #F7931E url("../images/u4098-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, from(#F15A24),color-stop(100%, #F7931E));
 	background: -webkit-linear-gradient(top,#F15A24 ,#F7931E 100%);
 	background: -moz-linear-gradient(top,#F15A24 ,#F7931E 100%);
@@ -183,7 +191,7 @@
 
 #u3995
 {
-	background: #F7931E url("../images/u3991-grad.png") repeat-x left top;
+	background: #F7931E url("../images/u4098-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, from(#F15A24),color-stop(100%, #F7931E));
 	background: -webkit-linear-gradient(top,#F15A24 ,#F7931E 100%);
 	background: -moz-linear-gradient(top,#F15A24 ,#F7931E 100%);

@@ -69,12 +69,86 @@
 	left: 297px;
 }
 
-#ppamphletu1975
+#paccordionu1891
 {
 	width: 0.01px;
-	left: -378px;
 	margin-top: 11px;
 	position: relative;
+}
+
+#accordionu1891
+{
+	z-index: 16;
+	width: 380px;
+	margin-right: -10000px;
+}
+
+#u1905
+{
+	z-index: 17;
+	width: 100%;
+}
+
+#u1906
+{
+	z-index: 19;
+	height: 56px;
+	width: 380px;
+}
+
+#u1907
+{
+	z-index: 23;
+	width: 100%;
+	padding-left: 10px;
+	padding-right: 30px;
+	padding-bottom: 44.18749999999997px;
+}
+
+#pu1916-3
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u1916-3
+{
+	z-index: 24;
+	margin-right: -10000px;
+}
+
+#u1914
+{
+	z-index: 27;
+	margin-bottom: -9px;
+	width: 123px;
+	margin-right: -10000px;
+	margin-top: 61px;
+	left: 129px;
+}
+
+#u1912
+{
+	z-index: 33;
+	width: 109px;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 136px;
+}
+
+#u1908
+{
+	z-index: 29;
+	margin-left: 113px;
+	margin-top: 1px;
+}
+
+#u1910
+{
+	z-index: 31;
+	margin-left: 54px;
+	top: -9px;
+	margin-bottom: -9px;
 }
 
 #pamphletu1975
@@ -93,7 +167,7 @@
 	width: 253px;
 	margin-right: -10000px;
 	margin-top: 482px;
-	left: 435px;
+	left: 57px;
 }
 
 #u1988
@@ -310,82 +384,6 @@
 	z-index: 71;
 	margin-right: -10000px;
 	left: 11px;
-}
-
-#accordionu1891
-{
-	z-index: 16;
-	width: 380px;
-	margin-right: -10000px;
-	left: 378px;
-}
-
-#u1905
-{
-	z-index: 17;
-	width: 100%;
-}
-
-#u1906
-{
-	z-index: 19;
-	height: 56px;
-	width: 380px;
-}
-
-#u1907
-{
-	z-index: 23;
-	width: 100%;
-	padding-left: 10px;
-	padding-right: 30px;
-	padding-bottom: 44.18749999999997px;
-}
-
-#pu1916-3
-{
-	width: 0.01px;
-	position: relative;
-}
-
-#u1916-3
-{
-	z-index: 24;
-	margin-right: -10000px;
-}
-
-#u1914
-{
-	z-index: 27;
-	margin-bottom: -9px;
-	width: 123px;
-	margin-right: -10000px;
-	margin-top: 61px;
-	left: 129px;
-}
-
-#u1912
-{
-	z-index: 33;
-	width: 109px;
-	margin-right: -10000px;
-	margin-top: 9px;
-	left: 136px;
-}
-
-#u1908
-{
-	z-index: 29;
-	margin-left: 113px;
-	margin-top: 1px;
-}
-
-#u1910
-{
-	z-index: 31;
-	margin-left: 54px;
-	top: -9px;
-	margin-bottom: -9px;
 }
 
 #pu1919-4
