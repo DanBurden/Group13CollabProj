@@ -65,20 +65,9 @@
 	position: relative;
 }
 
-#u2574_img,#u2570_img,#u2576_img,#u2568_img
-{
-	display: block;
-	vertical-align: top;
-}
-
 .AccordionPanelTab /* accordion */
 {
 	cursor: pointer;
-}
-
-#u2546,#u2564,#u2574,#u2570,#u2576,#u2568,#u4484
-{
-	position: relative;
 }
 
 #u4484_clip
@@ -91,5 +80,16 @@
 	display: block;
 	vertical-align: top;
 	position: relative;
+}
+
+#u2546,#u2564,#u2574,#u2570,#u2576,#u2568,#u4484,#u5082-4,#u5083-4
+{
+	position: relative;
+}
+
+#u2574_img,#u2570_img,#u2576_img,#u2568_img,#u5082-4_img,#u5083-4_img
+{
+	display: block;
+	vertical-align: top;
 }
 

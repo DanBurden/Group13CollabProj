@@ -105,17 +105,6 @@
 	position: relative;
 }
 
-#u1848_img,#u4361_img
-{
-	display: block;
-	vertical-align: top;
-}
-
-#u1848,#u1854,#u4257-3,#pamphletu4354,#u4361,#u4357
-{
-	position: relative;
-}
-
 #u4358
 {
 	position: absolute;
@@ -144,5 +133,16 @@
 	display: block;
 	vertical-align: top;
 	position: relative;
+}
+
+#u1848,#u1854,#u4257-3,#pamphletu4354,#u4361,#u4357,#u5078-4,#u5079-4
+{
+	position: relative;
+}
+
+#u1848_img,#u4361_img,#u5078-4_img,#u5079-4_img
+{
+	display: block;
+	vertical-align: top;
 }
 

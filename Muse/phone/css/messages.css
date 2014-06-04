@@ -40,7 +40,8 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 570px;
+	min-height: 4765.661824324323px;
+	padding-bottom: 0px;
 }
 
 #u2548
@@ -728,6 +729,29 @@
 	margin-right: -10000px;
 	margin-top: 268px;
 	left: 40px;
+}
+
+#pu5082-4
+{
+	width: 0.01px;
+	margin-left: 53px;
+	margin-top: 66px;
+	position: relative;
+}
+
+#u5082-4
+{
+	z-index: 255;
+	width: 147px;
+	margin-right: -10000px;
+}
+
+#u5083-4
+{
+	z-index: 259;
+	width: 127px;
+	margin-right: -10000px;
+	left: 151px;
 }
 
 #page .verticalspacer

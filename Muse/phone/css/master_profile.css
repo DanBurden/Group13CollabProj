@@ -294,20 +294,19 @@
 	position: relative;
 }
 
-.AccordionPanelTab,.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* accordion */
+#u5048
 {
-	cursor: pointer;
-}
-
-#u1887,#accordionu1891,#u1905,#u1914,#u1912,#u1908,#u1910,#pamphletu1975,#u1983,#u1919-4,#u1920-4
-{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 8px 2px rgba(255, 255, 255, 0.5);
+	-webkit-box-shadow: 0px 0px 8px 2px rgba(255, 255, 255, 0.5);
+	box-shadow: 0px 0px 8px 2px rgba(255, 255, 255, 0.5);
+	background-color: transparent;
 	position: relative;
 }
 
-#u1914_img,#u1912_img,#u1908_img,#u1910_img,#u1919-4_img,#u1920-4_img
+.AccordionPanelTab,.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* accordion */
 {
-	display: block;
-	vertical-align: top;
+	cursor: pointer;
 }
 
 #u2001
@@ -323,5 +322,16 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
+}
+
+#u1887,#accordionu1891,#u1905,#u1914,#u1912,#u1908,#u1910,#pamphletu1975,#u1983,#u1919-4,#u1920-4,#u5086-4,#u5087-4
+{
+	position: relative;
+}
+
+#u1914_img,#u1912_img,#u1908_img,#u1910_img,#u1919-4_img,#u1920-4_img,#u5086-4_img,#u5087-4_img
+{
+	display: block;
+	vertical-align: top;
 }
 

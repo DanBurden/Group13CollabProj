@@ -32,7 +32,13 @@
 {
 	z-index: 1;
 	width: 768px;
-	min-height: 950px;
+	min-height: 4711.857167832169px;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	margin-bottom: 1px;
 }
 
 #pu1845
@@ -780,6 +786,29 @@
 	margin-right: -10000px;
 	margin-top: 268px;
 	left: 277px;
+}
+
+#pu5078-4
+{
+	width: 0.01px;
+	margin-left: 256px;
+	margin-top: 13px;
+	position: relative;
+}
+
+#u5078-4
+{
+	z-index: 260;
+	width: 147px;
+	margin-right: -10000px;
+}
+
+#u5079-4
+{
+	z-index: 264;
+	width: 127px;
+	margin-right: -10000px;
+	left: 157px;
 }
 
 #page .verticalspacer

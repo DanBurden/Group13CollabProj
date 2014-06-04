@@ -51,15 +51,15 @@
 	position: relative;
 }
 
-#u1952_img,#u1950_img,#u1956_img,#u1954_img
-{
-	display: block;
-	vertical-align: top;
-}
-
 #u2785
 {
 	position: absolute;
+}
+
+#u1952_img,#u1950_img,#u1956_img,#u1954_img,#u5088-4_img,#u5089-4_img
+{
+	display: block;
+	vertical-align: top;
 }
 
 #u2796
@@ -70,7 +70,7 @@
 	position: relative;
 }
 
-#u2791,#u2806,#u2801
+#u2791,#u2806,#u2801,#u4972,#u4988
 {
 	border-width: 1px;
 	border-style: solid;
@@ -79,23 +79,18 @@
 	position: relative;
 }
 
-#u1962,#u2996,#u1960-3,#u2792-7,#u2797-7,#u2807-7,#u2802-7
+#u1962,#u2996,#u1960-3,#u2792-4,#u2797-4,#u2807-4,#u4994-4,#u5003-4,#u5010-4
 {
 	display: block;
 	vertical-align: top;
 	position: relative;
 }
 
-#u3865,#u4464,#u4614,#u3869,#u4460,#u4610,#u3867,#u4462,#u4612,#u3871,#u4458,#u4604
+#u3865,#u4464,#u4614,#u4460,#u3869,#u4610,#u3867,#u4462,#u4612,#u4997,#u4995,#u4999,#u5006,#u5004,#u5008,#u5011,#u5013,#u5015
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	position: relative;
-}
-
-#u1965,#accordionu1933,#u1947,#u1952,#u1950,#u1956,#u1954,#pamphletu2763,#u2764
-{
 	position: relative;
 }
 
@@ -200,12 +195,6 @@
 	background-color: transparent;
 }
 
-#u2772.PamphletThumbSelected,#u2770.PamphletThumbSelected
-{
-	border-color: #662D91;
-	background-color: transparent;
-}
-
 #u2771
 {
 	vertical-align: top;
@@ -221,6 +210,55 @@
 #u2770.PamphletThumbSelected #u2771
 {
 	background: url("../../images/u2771-a.png") no-repeat 0px 0px;
+}
+
+#u4984
+{
+	position: absolute;
+	border-color: #662D91;
+	background-color: transparent;
+}
+
+#u1965,#accordionu1933,#u1947,#u1952,#u1950,#u1956,#u1954,#pamphletu2763,#u5088-4,#u5089-4,#u2764,#u4986-3
+{
+	position: relative;
+}
+
+#u4987
+{
+	vertical-align: top;
+	background: url("../../images/u4987.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u4984.PamphletThumbSelected #u4987
+{
+	background: url("../../images/u4987-a.png") no-repeat 0px 0px;
+}
+
+#u4989
+{
+	position: absolute;
+	border-color: #662D91;
+	background-color: transparent;
+}
+
+#u2772.PamphletThumbSelected,#u2770.PamphletThumbSelected,#u4984.PamphletThumbSelected,#u4989.PamphletThumbSelected
+{
+	border-color: #662D91;
+	background-color: transparent;
+}
+
+#u4992
+{
+	vertical-align: top;
+	background: url("../../images/u4992.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u4989.PamphletThumbSelected #u4992
+{
+	background: url("../../images/u4992-a.png") no-repeat 0px 0px;
 }
 
 .AccordionPanelTab,.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* accordion */

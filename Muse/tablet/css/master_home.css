@@ -170,20 +170,58 @@
 	position: relative;
 }
 
-#u2923,#u2819,#u2879-7,#u2859-7,#u2869-7,#u2874-7
+#u4779
+{
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
+	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -ms-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -o-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: linear-gradient(to right,#F7931E ,#F15A24 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=1)";
+	border-width: 1px;
+	border-style: solid;
+	position: relative;
+}
+
+#u4815
+{
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	background: -webkit-gradient(linear, left center, right center, from(#F7931E),color-stop(100%, #F15A24));
+	background: -webkit-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -moz-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -ms-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: -o-linear-gradient(left,#F7931E ,#F15A24 100%);
+	background: linear-gradient(to right,#F7931E ,#F15A24 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=1)";
+	border-width: 1px;
+	border-style: solid;
+	position: relative;
+}
+
+#u2923,#u2819,#u2879-4,#u2859-4,#u2869-4,#u4882-4,#u4851-4,#u4943-4
 {
 	display: block;
 	vertical-align: top;
 	position: relative;
 }
 
-#u3728,#u3802,#u3765,#u3689
+#u3728,#u3802,#u3765,#u4897,#u4868,#u4955
 {
 	position: absolute;
 	background-color: transparent;
 }
 
-#u3729,#u3803,#u3766,#u3690
+#u3729,#u3803,#u3766,#u4898,#u4869,#u4956
 {
 	border-width: 1px;
 	border-style: solid;
@@ -192,7 +230,7 @@
 	position: relative;
 }
 
-#u3826,#u4450,#u4594,#u3824,#u4454,#u4602,#u3814,#u4452,#u4596,#u3699,#u4456,#u4600
+#u3826,#u4450,#u4594,#u4454,#u3824,#u4602,#u3814,#u4452,#u4596,#u4909,#u4905,#u4907,#u4880,#u4874,#u4878,#u4966,#u4968,#u4970
 {
 	border-style: none;
 	border-color: transparent;
@@ -443,6 +481,122 @@
 	position: relative;
 }
 
+#u4813
+{
+	position: absolute;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #F7931E;
+}
+
+#pu4813:hover #u4813
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #F7931E;
+	background-color: rgba(247, 147, 30, 1);
+	-pie-background: none;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+}
+
+#pu4813.PamphletThumbSelected #u4813
+{
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #F15A24;
+	background-color: #662D91;
+	background-color: rgba(102, 45, 145, 1);
+	-pie-background: none;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+}
+
+#u4817
+{
+	vertical-align: top;
+	background: url("../../images/u4817.png") no-repeat 0px 0px;
+}
+
+#pu4813.PamphletThumbSelected #u4817
+{
+	background: url("../../images/u4817-a.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u4816
+{
+	position: absolute;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #F7931E;
+}
+
+#pu4816:hover #u4816
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #F7931E;
+	background-color: rgba(247, 147, 30, 1);
+	-pie-background: none;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+}
+
+#pu4816.PamphletThumbSelected #u4816
+{
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #F15A24;
+	background-color: #662D91;
+	background-color: rgba(102, 45, 145, 1);
+	-pie-background: none;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+}
+
+#u4818
+{
+	vertical-align: top;
+	background: url("../../images/u4818.png") no-repeat 0px 0px;
+}
+
+#pu4816.PamphletThumbSelected #u4818
+{
+	background: url("../../images/u4818-a.png") no-repeat 0px 0px;
+	position: relative;
+}
+
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton,.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* slideshowFreeStyle */
 {
 	cursor: pointer;
@@ -465,17 +619,6 @@
 	position: relative;
 }
 
-#u2829_img,#u4390_img
-{
-	display: block;
-	vertical-align: top;
-}
-
-#u2829,#pamphletu2835,#slideshowu3701,#slideshowu3775,#slideshowu3738,#slideshowu3662,#u2836,#pu2837 #u2838,#pu2841 #u2842,#pu2844 #u2845,#pamphletu4387,#u4390,#u4400
-{
-	position: relative;
-}
-
 #u4401
 {
 	position: absolute;
@@ -492,5 +635,16 @@
 {
 	border-style: none;
 	border-color: transparent;
+}
+
+#u2829,#pamphletu2835,#slideshowu3701,#slideshowu3775,#slideshowu3738,#slideshowu4883,#slideshowu4852,#slideshowu4944,#u2836,#pu2837 #u2838,#pu2841 #u2842,#pu2844 #u2845,#pu4813 #u4817,#pu4813:hover #u4817,#pu4816 #u4818,#pu4816:hover #u4818,#pamphletu4387,#u4390,#u4400,#u5074-4,#u5075-4
+{
+	position: relative;
+}
+
+#u2829_img,#u4390_img,#u5074-4_img,#u5075-4_img
+{
+	display: block;
+	vertical-align: top;
 }
 

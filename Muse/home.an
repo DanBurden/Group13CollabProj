@@ -1,0 +1,51 @@
+{
+
+	"viewStartMs":"-25",
+	"pref__general__AutoKeyframePropertiesArmed":"true",
+	"symbol_stage":{
+		"element_${_u3322} > video:nth-child(1)":{
+			"animationEnabled":"false"},
+		"element_${_Symbol_12}":{
+			"timelineColor2":"0xcbbd71",
+			"animationEnabled":"true",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"element_${_u3660} > audio:nth-child(1)":{
+			"animationEnabled":"false"},
+		"element_${_u3621} > audio:nth-child(1)":{
+			"animationEnabled":"false"},
+		"element_${_u4773} > video:nth-child(1)":{
+			"animationEnabled":"false"},
+		"element_${_u3324} > video:nth-child(1)":{
+			"animationEnabled":"false"},
+		"element_${_u4704} > audio:nth-child(1)":{
+			"animationEnabled":"false"}},
+	"TransitionIdCounter":"16",
+	"CompZoomFactor":"100",
+	"viewStartY":"0",
+	"pixelsPerMs":"0.2",
+	"usedBOM":"false",
+	"nextElementColorIndex":"2",
+	"stage-Default Timeline_playhead_ms":"0",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Symbol_1\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }}\
+}",
+	"HTMLFileName":"home.html",
+	"StageZoomFactor":"100"}

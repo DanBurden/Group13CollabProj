@@ -45,7 +45,7 @@
 
 #u2954
 {
-	z-index: 74;
+	z-index: 76;
 	margin-right: -10000px;
 	margin-top: 30px;
 	left: 145px;
@@ -331,9 +331,18 @@
 	left: 9px;
 }
 
-#u1723
+#u5070
 {
 	z-index: 56;
+	width: 144px;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 419px;
+}
+
+#u1723
+{
+	z-index: 58;
 	width: 590px;
 	height: 432px;
 	margin-right: -10000px;
@@ -341,7 +350,7 @@
 
 #u1724-8
 {
-	z-index: 57;
+	z-index: 59;
 	margin-right: -10000px;
 	margin-top: 23px;
 	left: 8px;
@@ -349,7 +358,7 @@
 
 #u1725
 {
-	z-index: 65;
+	z-index: 67;
 	width: 590px;
 	height: 432px;
 	margin-right: -10000px;
@@ -357,7 +366,7 @@
 
 #u1726-8
 {
-	z-index: 66;
+	z-index: 68;
 	margin-right: -10000px;
 	margin-top: 23px;
 	left: 7px;
@@ -365,7 +374,7 @@
 
 #pamphletu4419
 {
-	z-index: 76;
+	z-index: 78;
 	width: 0.01px;
 	height: 39px;
 	padding-bottom: 46px;
@@ -376,7 +385,7 @@
 
 #u4420popup
 {
-	z-index: 77;
+	z-index: 79;
 }
 
 #u4420
@@ -387,7 +396,7 @@
 
 #u4421
 {
-	z-index: 78;
+	z-index: 80;
 	width: 180px;
 	height: 46px;
 	margin-right: -10000px;
@@ -395,7 +404,7 @@
 
 #u4422
 {
-	z-index: 79;
+	z-index: 81;
 	margin-bottom: -1px;
 	width: 154px;
 	margin-right: -10000px;
@@ -405,7 +414,7 @@
 
 #u4432
 {
-	z-index: 81;
+	z-index: 83;
 	width: 50px;
 	margin-right: -10000px;
 	left: 70px;
@@ -449,6 +458,24 @@
 	opacity: 0.01;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
 	filter: alpha(opacity=1);
+}
+
+#u5080-4
+{
+	z-index: 85;
+	width: 147px;
+	margin-right: -10000px;
+	margin-top: 1171px;
+	left: 256px;
+}
+
+#u5081-4
+{
+	z-index: 89;
+	width: 127px;
+	margin-right: -10000px;
+	margin-top: 1170px;
+	left: 410px;
 }
 
 #page .verticalspacer

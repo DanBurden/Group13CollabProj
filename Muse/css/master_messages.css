@@ -7,20 +7,6 @@
 	border-radius: 10px;
 }
 
-#u2360
-{
-	background: -webkit-gradient(linear, center top, center bottom, from(#F7931E),color-stop(100%, #F15A24));
-	background: -webkit-linear-gradient(top,#F7931E ,#F15A24 100%);
-	background: -moz-linear-gradient(top,#F7931E ,#F15A24 100%);
-	background: -ms-linear-gradient(top,#F7931E ,#F15A24 100%);
-	background: -o-linear-gradient(top,#F7931E ,#F15A24 100%);
-	background: linear-gradient(to bottom,#F7931E ,#F15A24 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=0);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=0)";
-	border-color: #000000;
-	position: fixed;
-}
-
 #u2365
 {
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -39,6 +25,20 @@
 	border-color: transparent;
 	position: fixed;
 	background-size: cover !important;
+}
+
+#u2360
+{
+	background: -webkit-gradient(linear, center top, center bottom, from(#F7931E),color-stop(100%, #F15A24));
+	background: -webkit-linear-gradient(top,#F7931E ,#F15A24 100%);
+	background: -moz-linear-gradient(top,#F7931E ,#F15A24 100%);
+	background: -ms-linear-gradient(top,#F7931E ,#F15A24 100%);
+	background: -o-linear-gradient(top,#F7931E ,#F15A24 100%);
+	background: linear-gradient(to bottom,#F7931E ,#F15A24 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF7931E, endColorstr=#FFF15A24, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7931E', endColorstr='#FFF15A24', GradientType=0)";
+	border-color: #000000;
+	position: fixed;
 }
 
 #u2346
@@ -61,12 +61,6 @@
 #u2348
 {
 	position: fixed;
-}
-
-#u2348_img
-{
-	display: block;
-	vertical-align: top;
 }
 
 #u2343
@@ -164,15 +158,21 @@
 	background: url("../images/u2355-a.png") no-repeat 0px 0px;
 }
 
-#pamphletu2339,#u2342,#u2354,#u4154-3,#u4221
-{
-	position: relative;
-}
-
 #u2382,#u2378,#u4158-5,#u4157-4,#u2380,#u2384-4,#u2387,#u4155-4,#u4156-4,#u4159-5,#u4160-7,#u2385-4,#u4161,#u4170-4,#u4173-5,#u4164,#u4171-4,#u4174-4,#u4176,#u4178-4,#u4179-6,#u4167,#u4172-4,#u4175-4,#u4181,#u4187-4,#u4190-5,#u4183,#u4188-4,#u4191-4,#u4185,#u4189-4,#u4192-4,#u4201,#u4203-4,#u4204-4,#u4196,#u4198-4,#u4199-6,#u4206,#u4208-4,#u4209-7,#u4211,#u4213-4,#u4214-6,#u4223-4,#u4224-4,#u4216,#u4218-4,#u4219-4,#u4226,#u4232-4,#u4235-5,#u4228,#u4233-4,#u4236-4,#u4230,#u4234-4,#u4237-4,#u4241,#u4243-4,#u4244-4
 {
 	display: block;
 	vertical-align: top;
 	position: relative;
+}
+
+#pamphletu2339,#u2342,#u2354,#u4154-3,#u4221,#u5064-4,#u5065-4
+{
+	position: relative;
+}
+
+#u2348_img,#u5064-4_img,#u5065-4_img
+{
+	display: block;
+	vertical-align: top;
 }
 

@@ -27,6 +27,18 @@
 	background-size: cover !important;
 }
 
+#u2285
+{
+	vertical-align: top;
+	background: url("../../images/homeicon-u2285.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u2285.MuseLinkActive
+{
+	background: url("../../images/homeactive-u2285-a.png") no-repeat 0px 0px;
+}
+
 #u2288
 {
 	vertical-align: top;
@@ -160,12 +172,17 @@
 	position: relative;
 }
 
-#u4094_clip,#u4090_clip
+#u5057,#u5060
 {
-	overflow: hidden;
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 8px 2px rgba(255, 255, 255, 0.5);
+	-webkit-box-shadow: 0px 0px 8px 2px rgba(255, 255, 255, 0.5);
+	box-shadow: 0px 0px 8px 2px rgba(255, 255, 255, 0.5);
+	background-color: transparent;
+	position: relative;
 }
 
-#u2285,#u4096-9,#u4092-8
+#u2928,#u2291,#u4096-9,#u4092-8
 {
 	display: block;
 	vertical-align: top;
@@ -186,17 +203,6 @@
 	-webkit-border-radius: 15px 15px 0px 15px ;
 	-khtml-border-radius: 15px 15px 0px 15px ;
 	border-radius: 15px 15px 0px 15px ;
-	position: relative;
-}
-
-#u2289_img,#u4406_img
-{
-	display: block;
-	vertical-align: top;
-}
-
-#u2928,#u2289,#u2291,#u4097,#u4088,#u4094,#u4090,#pamphletu4403,#u4406,#u4416
-{
 	position: relative;
 }
 
@@ -221,5 +227,16 @@
 .TabbedPanelsTab,.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* tabset */
 {
 	cursor: pointer;
+}
+
+#u2289,#u4097,#u4088,#pamphletu4403,#u4406,#u4416,#u5076-4,#u5077-4
+{
+	position: relative;
+}
+
+#u2289_img,#u4406_img,#u5076-4_img,#u5077-4_img
+{
+	display: block;
+	vertical-align: top;
 }
 
